@@ -1,0 +1,5414 @@
+{
+  "n_entries": 600,
+  "n_ok": 600,
+  "n_failed": 0,
+  "by_status": {
+    "ok": 600
+  },
+  "unknown_status": [],
+  "files": [
+    {
+      "file_name": "00020151_000008863281.xlsx",
+      "scoring_name": "00020151_000008863281.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1224,
+      "sha256_out": "07ea9e8240cccf1a750c22d914fca83aaf6d95d0eddd565699391777403f2b8c"
+    },
+    {
+      "file_name": "00100106_000008059726.xlsx",
+      "scoring_name": "00100106_000008059726.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 570,
+      "sha256_out": "242a4860564b6db682ff75411b5978176cda9dd08936d340e97574b531cf3676"
+    },
+    {
+      "file_name": "00100406_000003862146.xls",
+      "scoring_name": "00100406_000003862146.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3880,
+      "sha256_out": "e1afc7f9561cb47719ef62ff5c18aab37bac0e3aaa160ff02327827e0c79f7c1"
+    },
+    {
+      "file_name": "00100409_000003214753.xls",
+      "scoring_name": "00100409_000003214753.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 7534,
+      "sha256_out": "c743277c9eb400bd6fd5ac98546abcc1c0aa1d1de73d15d14842ac373d696e38"
+    },
+    {
+      "file_name": "00100409_000008573808.xlsx",
+      "scoring_name": "00100409_000008573808.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 809,
+      "sha256_out": "01b228b58a08e74a8b23f1485f1bf354d194ea04b505f8e4aca1f8dd503156b0"
+    },
+    {
+      "file_name": "00130002_000010064742.xlsx",
+      "scoring_name": "00130002_000010064742.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 29,
+      "n_nonempty_cells": 13662,
+      "sha256_out": "6ba9eba0006c311befb8469e34ff3dbd6399bebc940a1b21c753ebecfcf7631b"
+    },
+    {
+      "file_name": "00130002_000010581135.xlsx",
+      "scoring_name": "00130002_000010581135.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 397,
+      "sha256_out": "6ca25daf5f1223e42678faec5fef06e9a5f5fd952408fadbff497e569c0af3b5"
+    },
+    {
+      "file_name": "00160011_000010358393.xlsx",
+      "scoring_name": "00160011_000010358393.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 8,
+      "n_nonempty_cells": 621,
+      "sha256_out": "15a817373f5dbad14434b11b8a52af2f94bb709e7728e12e01d471b8a3770398"
+    },
+    {
+      "file_name": "00190001_000010843139.xlsx",
+      "scoring_name": "00190001_000010843139.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 32,
+      "n_nonempty_cells": 7393,
+      "sha256_out": "7d4abadd51e8124d2fcf1954b57856f3f6ecaa3b9bb3a76192676e78fa57a951"
+    },
+    {
+      "file_name": "00200051_000010622544.xlsx",
+      "scoring_name": "00200051_000010622544.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 502,
+      "sha256_out": "dc35b1c90d2b3a079239a907efd70fdfff4be7e1cb79d06993aa401928b73a21"
+    },
+    {
+      "file_name": "00200201_000008175449.xls",
+      "scoring_name": "00200201_000008175449.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 27,
+      "n_nonempty_cells": 32058,
+      "sha256_out": "df6ecec2c74f920d872ef5136d0924a656b28c8d65418fd92a9c56348a37943e"
+    },
+    {
+      "file_name": "00200212_000010677445.xlsx",
+      "scoring_name": "00200212_000010677445.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 20,
+      "n_nonempty_cells": 27712,
+      "sha256_out": "9b5305b4d13ae686f970cc566f89fa1c9c5bd101424436033af73504575ea454"
+    },
+    {
+      "file_name": "00200212_000010677460.xlsx",
+      "scoring_name": "00200212_000010677460.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 4,
+      "n_nonempty_cells": 11705,
+      "sha256_out": "98ef0b7a670c9bfdd6bccfef0c748302a8b0317d9dcea7833345e760278f0d4e"
+    },
+    {
+      "file_name": "00200213_000010454473.xlsx",
+      "scoring_name": "00200213_000010454473.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 64521,
+      "sha256_out": "fff94f210312cbc07059ea347edbf94db87bf895eba2d2ff6b01fcee8efe87d8"
+    },
+    {
+      "file_name": "00200213_000010454524.xlsx",
+      "scoring_name": "00200213_000010454524.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 49553,
+      "sha256_out": "27696ae76017296639bced8a7729be422dccdae30870ab2a5bfd30fed1958c6d"
+    },
+    {
+      "file_name": "00200213_000010776879.xlsx",
+      "scoring_name": "00200213_000010776879.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1886,
+      "sha256_out": "2e3e48273aed313f0b16e692c749a1ba5e20940b6e5a6d1e80096d1cd403cf2f"
+    },
+    {
+      "file_name": "00200213_000010776917.xlsx",
+      "scoring_name": "00200213_000010776917.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 16357,
+      "sha256_out": "c86c40c3874f75980033f70c892a0f6096ff253a2834cda38bc502237a6ee7e0"
+    },
+    {
+      "file_name": "00200213_000010776980.xlsx",
+      "scoring_name": "00200213_000010776980.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 35702,
+      "sha256_out": "32be4fea351d6344501b99e5a7e068f7b9ccf41b0369d4626f18faf1b269396a"
+    },
+    {
+      "file_name": "00200231_000007837180.xls",
+      "scoring_name": "00200231_000007837180.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 14,
+      "n_nonempty_cells": 13977,
+      "sha256_out": "f7edad5e86f0f56aed87925fd256d3fc5450da876b216915e10fbee735eb8f6f"
+    },
+    {
+      "file_name": "00200232_000008170108.xlsx",
+      "scoring_name": "00200232_000008170108.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 15,
+      "n_nonempty_cells": 4817,
+      "sha256_out": "1b4e8183fb58b5f1eec7886e7da738a8d4a0ba981f1adbdf5d116c47239ed71e"
+    },
+    {
+      "file_name": "00200233_000007837213.xlsx",
+      "scoring_name": "00200233_000007837213.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 12,
+      "n_nonempty_cells": 13027,
+      "sha256_out": "f6fed64bb86c50751a2ce3e79c9e77861f05254613abdd362d019ee76314e441"
+    },
+    {
+      "file_name": "00200241_000010654239.xlsx",
+      "scoring_name": "00200241_000010654239.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 66082,
+      "sha256_out": "b96cd0c4fb68d58f57f5bab0c544d530b75843131274713627da034bcfb4ea4b"
+    },
+    {
+      "file_name": "00200251_000007631465.xlsx",
+      "scoring_name": "00200251_000007631465.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 537156,
+      "sha256_out": "1347e089d91efc5b8ce837cc8114aaade74e0c757a0ed721667daebc58de10f2"
+    },
+    {
+      "file_name": "00200251_000008129377.xlsx",
+      "scoring_name": "00200251_000008129377.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 10769,
+      "sha256_out": "5e51f62243c735d7f527a4be7652023b8e9e5b147b2dda45f6f87f67b40ce164"
+    },
+    {
+      "file_name": "00200251_000010681806.xlsx",
+      "scoring_name": "00200251_000010681806.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 1451,
+      "sha256_out": "9e4d65a7417ab5bf65227e5b538776152f79d74edd52ae59dd0643cdffb28818"
+    },
+    {
+      "file_name": "00200251_000010681859.xlsx",
+      "scoring_name": "00200251_000010681859.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1063127,
+      "sha256_out": "f5b38cc0d48c884d9340c4d07a7e8980d2858508d3421805e85d4adf5d2b207d"
+    },
+    {
+      "file_name": "00200251_000010682095.xlsx",
+      "scoring_name": "00200251_000010682095.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 50805,
+      "sha256_out": "81eb11bc69ccb060e84dda5119ff39f580b8976ed3c38e55155f51b3fb47be05"
+    },
+    {
+      "file_name": "00200251_000010682104.xlsx",
+      "scoring_name": "00200251_000010682104.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 234,
+      "sha256_out": "07836e5a6ee92e71883d70debe4e641255c01b697c4597fff2752bee442af2a0"
+    },
+    {
+      "file_name": "00200251_000010682119.xlsx",
+      "scoring_name": "00200251_000010682119.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 66465,
+      "sha256_out": "0a850a2c1d84914c7dcc299fa85a3532d6b13d5bf72a716865aba22c88d00884"
+    },
+    {
+      "file_name": "00200251_000010846249.xlsx",
+      "scoring_name": "00200251_000010846249.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1139772,
+      "sha256_out": "922ecb9d6399c729377edf83c7d1a85d2daffb7cb01851c5d7166c0f92b09122"
+    },
+    {
+      "file_name": "00200251_000010846518.xlsx",
+      "scoring_name": "00200251_000010846518.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8174,
+      "sha256_out": "fa91353dc7daf679093e4780cda0486fd7632641937ca927c850cf4aa48af8ac"
+    },
+    {
+      "file_name": "00200252_000010338283.xlsx",
+      "scoring_name": "00200252_000010338283.xlsx",
+      "status": "ok",
+      "note": "resaved",
+      "resave_reason": "ファイル '00200252_000010338283.xlsx' の拡張子は '.xlsx' ですが、実際のファイル内容は 'xlsb' として検出されました。拡張子が偽装されている可能性があります。",
+      "n_sheets": 16,
+      "n_nonempty_cells": 2785,
+      "sha256_out": "6420ace801174a21c75e4c3131a4575a40ef440e97db5ae9513e2dd0b8eb5aca"
+    },
+    {
+      "file_name": "00200253_000010847379.xlsx",
+      "scoring_name": "00200253_000010847379.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 6,
+      "n_nonempty_cells": 936961,
+      "sha256_out": "eeffb3600de1cf057df1c8589ec2a685b68cfe303990f1725402f15e51701dc7"
+    },
+    {
+      "file_name": "00200261_000009041488.xlsx",
+      "scoring_name": "00200261_000009041488.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 260465,
+      "sha256_out": "547bc8c127298689fb18636acf7490802cb2501aa4d13bbab14308bedf6a894c"
+    },
+    {
+      "file_name": "00200351_000003493876.xls",
+      "scoring_name": "00200351_000003493876.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 9,
+      "n_nonempty_cells": 5008,
+      "sha256_out": "07318cdecafa788f5b603e8f6bea36155f2bf642fa3196a4d698c599b2ae04a7"
+    },
+    {
+      "file_name": "00200351_000006037754.xls",
+      "scoring_name": "00200351_000006037754.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 10,
+      "n_nonempty_cells": 2425,
+      "sha256_out": "48a99ded6245c1aa003cebbd21bfb5cacf8ba7d018ed2d26e12bac080d9d62ce"
+    },
+    {
+      "file_name": "00200352_000003489204.xls",
+      "scoring_name": "00200352_000003489204.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 1617,
+      "sha256_out": "6075d78b157351574fa80069d20d8a9ff28d281b7977b3a4de54b066ca4b428d"
+    },
+    {
+      "file_name": "00200356_000003466225.xls",
+      "scoring_name": "00200356_000003466225.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 58,
+      "n_nonempty_cells": 22485,
+      "sha256_out": "fd6fa3fde869e08b992a77b33737ccef3958008b1ddc28fb0cd7b8872683fc6e"
+    },
+    {
+      "file_name": "00200356_000007834738.xls",
+      "scoring_name": "00200356_000007834738.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 61,
+      "n_nonempty_cells": 117159,
+      "sha256_out": "b0dc4b1b9f48eacd3948e202ae85a5692a9d17d6969b53b7700c18336f5d250d"
+    },
+    {
+      "file_name": "00200357_000008427397.xlsx",
+      "scoring_name": "00200357_000008427397.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 22,
+      "n_nonempty_cells": 3375,
+      "sha256_out": "e9c53d28137d8075521e7002d5be322261aaf2cb6447cb57e4ff99adcce4ba8e"
+    },
+    {
+      "file_name": "00200357_000008521924.xls",
+      "scoring_name": "00200357_000008521924.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 21,
+      "n_nonempty_cells": 33242,
+      "sha256_out": "528b5f04b29bdb681ff7b6b89ae3e61d5d9791f6febda228cdd33fa3552506c3"
+    },
+    {
+      "file_name": "00200502_000005077255.xls",
+      "scoring_name": "00200502_000005077255.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 773,
+      "sha256_out": "d97f7356a90eef6b90821cc182e2df79dca6fcfc237f6dea19aa6787dc702024"
+    },
+    {
+      "file_name": "00200502_000005077292.xls",
+      "scoring_name": "00200502_000005077292.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1698,
+      "sha256_out": "e5c1c153d30bf8f55ab6b04976003693530c037ec0a161423bc18e582a2882c4"
+    },
+    {
+      "file_name": "00200502_000005077307.xls",
+      "scoring_name": "00200502_000005077307.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 457,
+      "sha256_out": "346ac9e87d0b6f5b1ad1a4cc0a4d4b792c65e275b462a2ea04cee395ea636d10"
+    },
+    {
+      "file_name": "00200502_000010295900.xls",
+      "scoring_name": "00200502_000010295900.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 11005,
+      "sha256_out": "c5b5b73f091bfa85736054ae1475de11e76ab1ff6e9bb56e3d2cadaf9d5961a9"
+    },
+    {
+      "file_name": "00200502_000010295926.xls",
+      "scoring_name": "00200502_000010295926.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3019,
+      "sha256_out": "9e43284548dd3e019ef7208d625eefed1d81e9f8203533d56042e1c79c23f3a9"
+    },
+    {
+      "file_name": "00200521_000000030042.xls",
+      "scoring_name": "00200521_000000030042.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3280,
+      "sha256_out": "30ed2fe3aa36f4e25c03ca45003a58a79f87976327b05ae8a7bf80099781fa28"
+    },
+    {
+      "file_name": "00200521_0000000317EC.xls",
+      "scoring_name": "00200521_0000000317EC.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 723,
+      "sha256_out": "f192f3e1faf45598d67b006e96cf7342de4d08ad8068257a4cb3098060d31083"
+    },
+    {
+      "file_name": "00200521_000009028187.xlsx",
+      "scoring_name": "00200521_000009028187.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 83331,
+      "sha256_out": "8aa5c63fba4e750e5e5b8ddc2ac66e09102aa00ca6e48c59951d989f153dd255"
+    },
+    {
+      "file_name": "00200521_000009031860.xlsx",
+      "scoring_name": "00200521_000009031860.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 99740,
+      "sha256_out": "6fe56f7229bd80013796e29f2a3dc69418f82f60f412405a7e83d61ee952f4b3"
+    },
+    {
+      "file_name": "00200521_000009090820.xlsx",
+      "scoring_name": "00200521_000009090820.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 590508,
+      "sha256_out": "c02e1faffc48227558ce50d5f3569adebca906bfc768f2395cb943454aeeea2a"
+    },
+    {
+      "file_name": "00200521_000009130224.xlsx",
+      "scoring_name": "00200521_000009130224.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 39304,
+      "sha256_out": "806bcf1aa69624cc84d2db7c4e0a49b889f6d10dc5d3c384d44621c153d1a9f8"
+    },
+    {
+      "file_name": "00200521_000009142289.xlsx",
+      "scoring_name": "00200521_000009142289.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 756034,
+      "sha256_out": "36b0b92f29b370eeb2e660cb70e8ffe75e2b908fe7f88e1eb8bd6013441da06d"
+    },
+    {
+      "file_name": "00200521_000009142923.xlsx",
+      "scoring_name": "00200521_000009142923.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 42434,
+      "sha256_out": "06a844e2658b05d73761076abf1f45b95507c0957453ee6e1b7449c6e0c9790c"
+    },
+    {
+      "file_name": "00200521_000009152406.xlsx",
+      "scoring_name": "00200521_000009152406.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3882856,
+      "sha256_out": "fafb13a2d3cde4622fe987d443ae314a22d053790942ad717189a078b72d5365"
+    },
+    {
+      "file_name": "00200522_0000000503BD.xls",
+      "scoring_name": "00200522_0000000503BD.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1848,
+      "sha256_out": "47f1463a6568264fbdd00abd18fefd7ed611700b10dedebd3a76b5e63993c95d"
+    },
+    {
+      "file_name": "00200522_0000000504FD.xls",
+      "scoring_name": "00200522_0000000504FD.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 266,
+      "sha256_out": "148da38ded3e9e416d4fd40d6be072d040593e39726d1915a64af0885d5871f0"
+    },
+    {
+      "file_name": "00200522_000000050533.xls",
+      "scoring_name": "00200522_000000050533.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 5097,
+      "sha256_out": "83698dd21e6e0a67ac9527421c74c29988c4d65704eead9e256b3b9db4b3449c"
+    },
+    {
+      "file_name": "00200522_0000000506FF.xls",
+      "scoring_name": "00200522_0000000506FF.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 9642,
+      "sha256_out": "ec5752069e3149bf072aa7986d124b1898d5b6cbc866cf014f00ddfe41ecd160"
+    },
+    {
+      "file_name": "00200522_000010349523.xlsx",
+      "scoring_name": "00200522_000010349523.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 602,
+      "sha256_out": "9dd52bef99657bf6a2667b0fb69c9035ef4a9f6c634162519c813576add628bf"
+    },
+    {
+      "file_name": "00200523_000000070101.xls",
+      "scoring_name": "00200523_000000070101.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 5286,
+      "sha256_out": "b39f8d9051dc4f864dddcaf9b83c58559ce580cf0bdd6892feddeef76c95c29b"
+    },
+    {
+      "file_name": "00200523_000008575056.xls",
+      "scoring_name": "00200523_000008575056.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 2,
+      "n_nonempty_cells": 3116,
+      "sha256_out": "717f01d91ce7941933aba66cc1ecd07fdf547da3e7bfef4803e3a091e8a58bba"
+    },
+    {
+      "file_name": "00200523_000008592854.xls",
+      "scoring_name": "00200523_000008592854.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 3,
+      "n_nonempty_cells": 127539,
+      "sha256_out": "f30d49a58e937f242ddab1ce5dd5c352f48803ba5b11495bd1d137459ac9cf22"
+    },
+    {
+      "file_name": "00200523_000010790764.xlsx",
+      "scoring_name": "00200523_000010790764.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 9,
+      "n_nonempty_cells": 1254807,
+      "sha256_out": "c8f8dcbcb70396ddf379189531b5cbd8fcc064c5f631c37337b8158e1985037d"
+    },
+    {
+      "file_name": "00200523_000010790774.xlsx",
+      "scoring_name": "00200523_000010790774.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 24369,
+      "sha256_out": "165fef27b477a67c20cb5578022f86dacc2e0ace9edb6b8208b65e792cb87c1b"
+    },
+    {
+      "file_name": "00200531_000006337447.xls",
+      "scoring_name": "00200531_000006337447.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 11745,
+      "sha256_out": "96c59adbcad820b8ea384ccbcdcaec6430db5fadb8315ef0b2ff00c968dd8a4a"
+    },
+    {
+      "file_name": "00200531_000009049046.xls",
+      "scoring_name": "00200531_000009049046.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 12,
+      "n_nonempty_cells": 15144,
+      "sha256_out": "e9c38e651235c1387052f5ab7e16985ad29f8f94f6566a21126b0837eea53bc4"
+    },
+    {
+      "file_name": "00200531_000009049094.xls",
+      "scoring_name": "00200531_000009049094.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2429,
+      "sha256_out": "1aefc988bcf7742013e1922a35a3c78fed86245037e45090a71493d22892d52c"
+    },
+    {
+      "file_name": "00200531_000010858382.xlsx",
+      "scoring_name": "00200531_000010858382.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 6,
+      "n_nonempty_cells": 5466,
+      "sha256_out": "c66560f66ceb3a510f896483ffdbfa94599265ea6e5e94e960d7d518b7508070"
+    },
+    {
+      "file_name": "00200532_000003158955.xls",
+      "scoring_name": "00200532_000003158955.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 8721,
+      "sha256_out": "60ad20dd5d33f13166782171f82cfca9ead5e8f451c9603dc72d9a8964aedd36"
+    },
+    {
+      "file_name": "00200532_000006370022.xls",
+      "scoring_name": "00200532_000006370022.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 4,
+      "n_nonempty_cells": 11186,
+      "sha256_out": "c2e8629f74b99103b24032c395565c125d15a86926bef33486d73139cb2598c6"
+    },
+    {
+      "file_name": "00200533_000005269396.xls",
+      "scoring_name": "00200533_000005269396.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 8949,
+      "sha256_out": "9167a2173047fd92544d57c9dbaea8576718944f012dba7bb922c448ea23a962"
+    },
+    {
+      "file_name": "00200533_000009171932.xlsx",
+      "scoring_name": "00200533_000009171932.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 103274,
+      "sha256_out": "c05afc752d1cfade7cca07fe62ee35346eebc20e9bda662bf91f6181ff502baf"
+    },
+    {
+      "file_name": "00200544_000005959062.xls",
+      "scoring_name": "00200544_000005959062.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 461,
+      "sha256_out": "7a1ac1f3ecf6a8131da07d9aba9cc5470d25ef473f2d713ca1138ee35992e575"
+    },
+    {
+      "file_name": "00200544_000006363955.xls",
+      "scoring_name": "00200544_000006363955.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 5974,
+      "sha256_out": "51aae6ad242058675f5936f6ee83b19abf54f2496cd1adb7fa3eb539201a6681"
+    },
+    {
+      "file_name": "00200544_000006363961.xls",
+      "scoring_name": "00200544_000006363961.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 5974,
+      "sha256_out": "48756ec27a371c64aaeb5d3cd5a0a9105aab88963322a14900ba8b952e6d6331"
+    },
+    {
+      "file_name": "00200544_000006886874.xls",
+      "scoring_name": "00200544_000006886874.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 842,
+      "sha256_out": "81aa43725840749c34d31f7fedcc2e0cdbca600fa5211e81672436f7895dff3e"
+    },
+    {
+      "file_name": "00200544_000007639503.xls",
+      "scoring_name": "00200544_000007639503.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 396,
+      "sha256_out": "ac041539246513e39e7589da3f312ee7819377579441df837bbc8c937562d00f"
+    },
+    {
+      "file_name": "00200544_000007639525.xls",
+      "scoring_name": "00200544_000007639525.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 440,
+      "sha256_out": "d82544d63fdd0a462449637aa4648d0568a788d0851901966d92c3cb95b39838"
+    },
+    {
+      "file_name": "00200544_000007641128.xls",
+      "scoring_name": "00200544_000007641128.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 396,
+      "sha256_out": "ce9364f1446083465be73737de2f1916c3f8e39a29401893983d44fa29d3efd3"
+    },
+    {
+      "file_name": "00200544_000007882359.xls",
+      "scoring_name": "00200544_000007882359.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 647,
+      "sha256_out": "e64f0789c9cd392a19105ca15cf9aa40a1cbdb415ef83961a8602828cacdbadb"
+    },
+    {
+      "file_name": "00200545_000000270061.xls",
+      "scoring_name": "00200545_000000270061.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 20729,
+      "sha256_out": "d48b6957ab4474b255b80b4a992205d71b4e9fd6f0cb14f5188d1a6ebd621885"
+    },
+    {
+      "file_name": "00200545_000000270080.xls",
+      "scoring_name": "00200545_000000270080.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 50719,
+      "sha256_out": "3af64c66d50e7e0161d97806bd2cd8e62675261d305caf1d2a2dcb7f281a323e"
+    },
+    {
+      "file_name": "00200551_000000295449.xls",
+      "scoring_name": "00200551_000000295449.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 7,
+      "n_nonempty_cells": 51625,
+      "sha256_out": "59a11fa4b9f9e4852dc0c8b6c4ede5e8ffb40befbe0ae811cfe12a1f19752c27"
+    },
+    {
+      "file_name": "00200551_000000296023.xls",
+      "scoring_name": "00200551_000000296023.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 27569,
+      "sha256_out": "6ca75dcc8578edc55061488beccb37b01e4c458c22c215a7fc861b6f68bf82fd"
+    },
+    {
+      "file_name": "00200551_000001140798.xls",
+      "scoring_name": "00200551_000001140798.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 94422,
+      "sha256_out": "5dd83238bb948bb3b95ffa808a703f0c162f1bf2534d2a3e4739979d7d45d082"
+    },
+    {
+      "file_name": "00200551_000001158548.xls",
+      "scoring_name": "00200551_000001158548.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 2,
+      "n_nonempty_cells": 170782,
+      "sha256_out": "3786008b818227ab971892aff65ff8cfc9346f1533045e09833d7c7a9768c675"
+    },
+    {
+      "file_name": "00200551_000001158560.xls",
+      "scoring_name": "00200551_000001158560.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3100,
+      "sha256_out": "34273e32e8a79420b8371783c4188abba7c248a6b40598fefbe2860113f5659c"
+    },
+    {
+      "file_name": "00200552_000004910370.xls",
+      "scoring_name": "00200552_000004910370.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 14,
+      "n_nonempty_cells": 22694,
+      "sha256_out": "dfa28a623671396c342e99129e0f5baa434744aaba7227fbade946df4b0e9e26"
+    },
+    {
+      "file_name": "00200552_000004975781.xls",
+      "scoring_name": "00200552_000004975781.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1230,
+      "sha256_out": "f4b1391dfa948e178ae3e56afad06f513dc4cc4f261942da7ff5dbbe193fe3d8"
+    },
+    {
+      "file_name": "00200552_000004978372.xls",
+      "scoring_name": "00200552_000004978372.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 14,
+      "n_nonempty_cells": 392252,
+      "sha256_out": "374fb876312165c741b83072bc5e4e2c9dc0ab3867e420ce99bf728a555476f7"
+    },
+    {
+      "file_name": "00200552_000006863391.xls",
+      "scoring_name": "00200552_000006863391.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 117615,
+      "sha256_out": "cebebcfd54d1745e14b040e0d9b8fc46d2543a2ab77df4d8a1d8134b0e328db7"
+    },
+    {
+      "file_name": "00200561_000010046484.xlsx",
+      "scoring_name": "00200561_000010046484.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2279,
+      "sha256_out": "aa0162833ac9e14f300810302acc5bc2b16668e2664e639e5a11449cafded5a8"
+    },
+    {
+      "file_name": "00200563_000000430085.xls",
+      "scoring_name": "00200563_000000430085.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1485,
+      "sha256_out": "5f5664188818b0cf4ad05eff68e2c57e5f043e79206c988cf77f433be5744386"
+    },
+    {
+      "file_name": "00200564_000007772295.xls",
+      "scoring_name": "00200564_000007772295.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 4094,
+      "sha256_out": "78def329080cd50ce9e37eb113121a5d6dec1fa55b51c44c96f3277fa795893a"
+    },
+    {
+      "file_name": "00200564_000008973071.xlsx",
+      "scoring_name": "00200564_000008973071.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 28,
+      "sha256_out": "1b732840b88d0c32a8110b2433cf486349743d7e20f58989a04033499c26e0fc"
+    },
+    {
+      "file_name": "00200565_000003973492.xls",
+      "scoring_name": "00200565_000003973492.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 1871,
+      "sha256_out": "0c93fec4791175a726869a3e45581f40600f74b1f49c399383d9d6a640333c60"
+    },
+    {
+      "file_name": "00200565_000007265767.xls",
+      "scoring_name": "00200565_000007265767.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 947,
+      "sha256_out": "2d7bb10aef60e6d544b00ef356671b0243588a3f1939af9b628a61d17c8615c1"
+    },
+    {
+      "file_name": "00200565_000007265819.xls",
+      "scoring_name": "00200565_000007265819.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 5,
+      "n_nonempty_cells": 7000,
+      "sha256_out": "365b42d608de9330df9fbf709cd310bad9337b111811284e909163fe63c498f6"
+    },
+    {
+      "file_name": "00200565_000010793634.xls",
+      "scoring_name": "00200565_000010793634.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 5,
+      "n_nonempty_cells": 3972,
+      "sha256_out": "9dfdf1a056971f007a77da3c8291091000dbf0666720bbe868c0f7328ef83046"
+    },
+    {
+      "file_name": "00200565_000010793656.xls",
+      "scoring_name": "00200565_000010793656.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 4285,
+      "sha256_out": "8d1286098f23409c989e471fc818cbc087a2bf252a040d7775280085f1ea90bf"
+    },
+    {
+      "file_name": "00200565_000010793694.xls",
+      "scoring_name": "00200565_000010793694.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 869,
+      "sha256_out": "667437f3d969b3576cc09fd187e14bc9672f952128eed87a8151ed479b28bc49"
+    },
+    {
+      "file_name": "00200565_000010793696.xls",
+      "scoring_name": "00200565_000010793696.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1060,
+      "sha256_out": "8d990cfd59bb42a6c6b74586199b8fce598a3625b12afb0b900a35b53abbbfc7"
+    },
+    {
+      "file_name": "00200565_000010860412.xls",
+      "scoring_name": "00200565_000010860412.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 1377,
+      "sha256_out": "73ccd10eed524ccd9da387cbdb0d7b66a970480f9f3041bdccd7729b12be19ed"
+    },
+    {
+      "file_name": "00200565_000010860434.xls",
+      "scoring_name": "00200565_000010860434.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1684,
+      "sha256_out": "87b38f3719c051113c4b24cadfaf9d3f7f6c0b14cf9105d438dbd149144b0479"
+    },
+    {
+      "file_name": "00200565_000010890672.xls",
+      "scoring_name": "00200565_000010890672.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 729,
+      "sha256_out": "6c78a3f7c66f74526fe2ea51ba0c7c1ca0a3ad1294e0294262eda1009cf1c241"
+    },
+    {
+      "file_name": "00200565_000010890694.xls",
+      "scoring_name": "00200565_000010890694.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 3946,
+      "sha256_out": "90e80a6e96e11ed2b06d6dc822d0b7d2d491692c1ab060568fcf7aed11e4784e"
+    },
+    {
+      "file_name": "00200566_000004024915.xls",
+      "scoring_name": "00200566_000004024915.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 5944,
+      "sha256_out": "64a9fb2cf8a10230029dad3e8e8f7c533d5b2cddb0f60241605d77b293c283a2"
+    },
+    {
+      "file_name": "00200566_000007815669.xls",
+      "scoring_name": "00200566_000007815669.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 65232,
+      "sha256_out": "d7233678a03bae32d337e4f3c36deb2e4e38f3d603bef08654ae6481f524fae0"
+    },
+    {
+      "file_name": "00200571_000003958991.xls",
+      "scoring_name": "00200571_000003958991.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 13,
+      "n_nonempty_cells": 8579,
+      "sha256_out": "acc41cfda335dd5e86fbe0e270927a508ec1abeb17068a77857c7df0ed2a562b"
+    },
+    {
+      "file_name": "00200572_000003109066.xls",
+      "scoring_name": "00200572_000003109066.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 53,
+      "n_nonempty_cells": 222547,
+      "sha256_out": "b4e21939b0f9b392c37932edd22643929f833e0a14b922a24ceb2cc21d881f53"
+    },
+    {
+      "file_name": "00200573_000000730769.xls",
+      "scoring_name": "00200573_000000730769.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 573,
+      "sha256_out": "f1646fe50cf97bbd395888daec8e1a6ff1d75b25ea2d050bfd3da58e0ede4063"
+    },
+    {
+      "file_name": "00200573_000000731647.xls",
+      "scoring_name": "00200573_000000731647.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8302,
+      "sha256_out": "e7008945a88e9471535eb1a7c39d8014df197856c7523f62e0024a4f17e2bbed"
+    },
+    {
+      "file_name": "00200573_000007626502.xls",
+      "scoring_name": "00200573_000007626502.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 4042,
+      "sha256_out": "cab49d1e4f0a403818356191ca89d657a91c1230587b0c84f535ece4af472036"
+    },
+    {
+      "file_name": "00200602_000010134687.xlsx",
+      "scoring_name": "00200602_000010134687.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 685,
+      "sha256_out": "666ae160414d07cd01e3867b0341178dd4690bad74f1497fa18d953aaf89379b"
+    },
+    {
+      "file_name": "00200703_000008431076.xlsx",
+      "scoring_name": "00200703_000008431076.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 4,
+      "n_nonempty_cells": 3602,
+      "sha256_out": "017129483fd5d8e956776d69ea36040681b36fe82848fde98f0d326c3ac3b636"
+    },
+    {
+      "file_name": "00250001_000008630908.xlsx",
+      "scoring_name": "00250001_000008630908.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 385,
+      "sha256_out": "bbe3b5235cdad415df6eac4a77eaaf4dafeb2ae390fe34c15e6e00f2a65900c5"
+    },
+    {
+      "file_name": "00250001_000008982553.xlsx",
+      "scoring_name": "00250001_000008982553.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 385,
+      "sha256_out": "9a13d2fa65a8b87695f84462d96286c171f2f1a0bb9c50e345d75c18271bd21f"
+    },
+    {
+      "file_name": "00250002_000006436295.xls",
+      "scoring_name": "00250002_000006436295.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 431,
+      "sha256_out": "bf0d30f0f8e4853a99f1ca9640dd8d4ce20cc7de4407e0b9c046f07183f6246a"
+    },
+    {
+      "file_name": "00250002_000007538946.xls",
+      "scoring_name": "00250002_000007538946.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 605,
+      "sha256_out": "4c797fc49061561e2d1e4fd5ed00304729ed1fa37f8c2435e1845bd2cf1d4043"
+    },
+    {
+      "file_name": "00250002_000007657539.xlsx",
+      "scoring_name": "00250002_000007657539.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 725,
+      "sha256_out": "3f038b83c710852e6472f9e5a8e658bde2eee8e3d05c07d235cdc8a798644174"
+    },
+    {
+      "file_name": "00250002_000008921343.xlsx",
+      "scoring_name": "00250002_000008921343.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 361,
+      "sha256_out": "1fef6dc4d42472f4dbaac4633fa280b9c5e4f47c393ba07ead07efd580d524d3"
+    },
+    {
+      "file_name": "00250002_000008921443.xlsx",
+      "scoring_name": "00250002_000008921443.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 669,
+      "sha256_out": "6150172f6d8246634f836dccba3c9b15dbe68aa555c08dff48528977fb153795"
+    },
+    {
+      "file_name": "00250002_000009136463.xlsx",
+      "scoring_name": "00250002_000009136463.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2784,
+      "sha256_out": "41fb70d003cb7bc4cb5d39dad543d033590c3507e184a30400dece3b9c4018ed"
+    },
+    {
+      "file_name": "00250002_000010165163.xlsx",
+      "scoring_name": "00250002_000010165163.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1393,
+      "sha256_out": "deb691caf09fe18bc1c003eb373d2fba7ad31a4d73685e4b514af937880348ed"
+    },
+    {
+      "file_name": "00250002_000010165164.xlsx",
+      "scoring_name": "00250002_000010165164.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1514,
+      "sha256_out": "795c69f1bab6cef72b7f581692b6ecfb39dc1690072364cbab6e5a674acf7184"
+    },
+    {
+      "file_name": "00250002_000010614997.xlsx",
+      "scoring_name": "00250002_000010614997.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1934,
+      "sha256_out": "4b5c29674225dc0e7ac35a64400ee98f681104446da46f6e2022f8510f637d29"
+    },
+    {
+      "file_name": "00250002_000010871195.xlsx",
+      "scoring_name": "00250002_000010871195.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 150,
+      "sha256_out": "3c44cecd442a5c2f47a63e99f5a7b4093ac8a8c0445e2c00d88953fb5349b206"
+    },
+    {
+      "file_name": "00250002_000010871224.xlsx",
+      "scoring_name": "00250002_000010871224.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 161,
+      "sha256_out": "86f1f028cb2002208f1bdae9d93a1e81ba8f90109e635a66791bc797753a45d6"
+    },
+    {
+      "file_name": "00250005_000010648147.xlsx",
+      "scoring_name": "00250005_000010648147.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 4000,
+      "sha256_out": "1943ca7d0e3ca9e339be13dfb8c1026892c4098b020e841f4f6fc62bbb159476"
+    },
+    {
+      "file_name": "00250006_000007690804.xlsx",
+      "scoring_name": "00250006_000007690804.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 585,
+      "sha256_out": "33d33582291fff21136f235903aa8d822b2ebcacb40eba3c4d5fb9496f80489e"
+    },
+    {
+      "file_name": "00250007_000008261953.xlsx",
+      "scoring_name": "00250007_000008261953.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1568,
+      "sha256_out": "51eed5c24c6787d6e912bc85b7e5e0e728399e02c1f812eaf57fd6f911e98c19"
+    },
+    {
+      "file_name": "00250007_000008262031.xlsx",
+      "scoring_name": "00250007_000008262031.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2810,
+      "sha256_out": "5273263a4aac2e44ebe019a7ffc5bed310a5a9d0b1f8dad9cdb1f35dcfc27e12"
+    },
+    {
+      "file_name": "00250007_000010377312.xlsx",
+      "scoring_name": "00250007_000010377312.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2220,
+      "sha256_out": "380f7e22cbed595e1daea2e009406d6db6ffb0b54737fb2126164f7df8eee241"
+    },
+    {
+      "file_name": "00250007_000010648648.xlsx",
+      "scoring_name": "00250007_000010648648.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8558,
+      "sha256_out": "110780e780a58c11c54662db10b639a3c76dd3f21954ebfd81bb6e1b37aadcc7"
+    },
+    {
+      "file_name": "00250010_000006886861.xls",
+      "scoring_name": "00250010_000006886861.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 725,
+      "sha256_out": "99de290e4caeb44c842d68dc909ae7ce51670cc52dd4bbae5cc2f164f1ddc3ee"
+    },
+    {
+      "file_name": "00250010_000008774453.xlsx",
+      "scoring_name": "00250010_000008774453.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 5404,
+      "sha256_out": "7d1dbf23a361195b080c9cc85267cdc242716d22d9ab6e5a67d80fbffc3bae3f"
+    },
+    {
+      "file_name": "00250011_000010633395.xlsx",
+      "scoring_name": "00250011_000010633395.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 314,
+      "sha256_out": "ee03bc7a2abba4bba61985d27b7b8e4ee007f58b957bc1a6023ff5f5d0cafa93"
+    },
+    {
+      "file_name": "00350100_000001258220.xls",
+      "scoring_name": "00350100_000001258220.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 21,
+      "sha256_out": "07a54028056664142f7480a042d6635ce785601b6095b7b850f1f29c8249efdd"
+    },
+    {
+      "file_name": "00350100_000008473311.xlsx",
+      "scoring_name": "00350100_000008473311.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1258,
+      "sha256_out": "1659e05449f2e662f235fe7f5b8ee538b4391b784f1a50275f2c2c49e4724908"
+    },
+    {
+      "file_name": "00350400_000003638140.xls",
+      "scoring_name": "00350400_000003638140.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 224,
+      "sha256_out": "467fbd30647008c28b1c8c4807bab6b078859d4e1a749e91c48d384f9b034f95"
+    },
+    {
+      "file_name": "00350400_000007376443.xls",
+      "scoring_name": "00350400_000007376443.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 216,
+      "sha256_out": "198503c1213e3159546cacbf9d0f075d8d5e04b611cf44814d49f3d36b1c7ac3"
+    },
+    {
+      "file_name": "00350400_000007654226.xls",
+      "scoring_name": "00350400_000007654226.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 103,
+      "sha256_out": "0a99174b6824773462eef0ce80fe581e0ac1de5c5185f149a91ef687e8589a66"
+    },
+    {
+      "file_name": "00400001_000003473838.xls",
+      "scoring_name": "00400001_000003473838.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 262,
+      "sha256_out": "67967e7f984eb070e6ea2b310b0b73db03332f448e332d873ebddee984367294"
+    },
+    {
+      "file_name": "00400001_000006038633.xls",
+      "scoring_name": "00400001_000006038633.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 57,
+      "sha256_out": "c77468053a4ca1892df9e71e516cb8d373a8355d6d40f4ddf6ae311909c39965"
+    },
+    {
+      "file_name": "00400001_000006930159.xls",
+      "scoring_name": "00400001_000006930159.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 235,
+      "sha256_out": "6a953fc2bc718911afa135c809873fb67a77548bbeaff1c273fd5cadbd007c40"
+    },
+    {
+      "file_name": "00400001_000007234361.xls",
+      "scoring_name": "00400001_000007234361.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 726,
+      "sha256_out": "e558e65900d425d14ea210cc076b597bfe5d25200266551dbc14f87456c5fc28"
+    },
+    {
+      "file_name": "00400001_000007358193.xls",
+      "scoring_name": "00400001_000007358193.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 2559,
+      "sha256_out": "19063888dd84a874b272d3505f2a7c74e8a1855335ceaaf7c1da5524aab2e16b"
+    },
+    {
+      "file_name": "00400001_000007359433.xls",
+      "scoring_name": "00400001_000007359433.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 63,
+      "sha256_out": "8b43d2c250f8106d000ca3a558c86a08d17e8f3e09ec98d991d91723f3b0177c"
+    },
+    {
+      "file_name": "00400001_000007362311.xls",
+      "scoring_name": "00400001_000007362311.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 2705,
+      "sha256_out": "7b1ff086de7cacb8fd94552906e2dbcf8efb78d2f6090fb01ac8ce4d3c9068a3"
+    },
+    {
+      "file_name": "00400001_000007365142.xls",
+      "scoring_name": "00400001_000007365142.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 202,
+      "sha256_out": "021416c702d11dd23af45c318affc95f24c9d57825e141e66bd22b616ff0b641"
+    },
+    {
+      "file_name": "00400001_000007365483.xls",
+      "scoring_name": "00400001_000007365483.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 117,
+      "sha256_out": "a98d3f7b6e9dd49276e0cf94ebaa7bd65e79ebe0a363ec21b652651926d4f83a"
+    },
+    {
+      "file_name": "00400001_000007366717.xls",
+      "scoring_name": "00400001_000007366717.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 353,
+      "sha256_out": "44181940cba63bca1edf3d3bf1407fab06e16e91e7bc0c282c613a10c5af780c"
+    },
+    {
+      "file_name": "00400001_000007367152.xls",
+      "scoring_name": "00400001_000007367152.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 2268,
+      "sha256_out": "6aa3e53324c12c4678fd44e6f5f3d9abb5aa8591cc5b8fbfa224c39394166755"
+    },
+    {
+      "file_name": "00400001_000007367229.xls",
+      "scoring_name": "00400001_000007367229.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 185,
+      "sha256_out": "b6d58dcf10a3cbac055471778c85f6e3173d5dc8547a569b8c5b92fbb941beca"
+    },
+    {
+      "file_name": "00400001_000007367602.xls",
+      "scoring_name": "00400001_000007367602.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1218,
+      "sha256_out": "e5ddd7f9a99f9b448d83f9f7ba32963d1d70bcb5fc21dd807c83a372ef44e13b"
+    },
+    {
+      "file_name": "00400001_000007367799.xls",
+      "scoring_name": "00400001_000007367799.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1181,
+      "sha256_out": "3d25c444269269e6260672d86c37415b87cff7099c7a5170a9a0504322e016a4"
+    },
+    {
+      "file_name": "00400001_000007705144.xlsx",
+      "scoring_name": "00400001_000007705144.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 360,
+      "sha256_out": "7707eae652ea6233d8a7a93802815980037a378aed7c4fb06503e30f1b662548"
+    },
+    {
+      "file_name": "00400001_000008933896.xlsx",
+      "scoring_name": "00400001_000008933896.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 6,
+      "n_nonempty_cells": 114608,
+      "sha256_out": "648538e769890aee7267f4fc6ee161d2ac379bc90842276b4bffe96ef3dd29f5"
+    },
+    {
+      "file_name": "00400001_000009260674.xlsx",
+      "scoring_name": "00400001_000009260674.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 970,
+      "sha256_out": "6db9b72acc92db41c6518f7584a50c0805e4a7b760811982e6df20f55023c2d7"
+    },
+    {
+      "file_name": "00400001_000009260698.xlsx",
+      "scoring_name": "00400001_000009260698.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 4,
+      "n_nonempty_cells": 8757,
+      "sha256_out": "6f1b14af40dfa1986a528c3ad15fd8724fd4c6a6b29d30a1ddcb97b6566dc7ba"
+    },
+    {
+      "file_name": "00400001_000010272711.xlsx",
+      "scoring_name": "00400001_000010272711.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 12,
+      "n_nonempty_cells": 13272,
+      "sha256_out": "76804f41054b2a4cf1559fa4bf7d14a6dad4a53a2c91fedfa451896d6abb105e"
+    },
+    {
+      "file_name": "00400001_000010772678.xlsx",
+      "scoring_name": "00400001_000010772678.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 794,
+      "sha256_out": "adc7bb0ed016263272d9dbca0ca93e8ea91e4e03b493189a14be7cd66310218c"
+    },
+    {
+      "file_name": "00400001_000010773521.xlsx",
+      "scoring_name": "00400001_000010773521.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1628,
+      "sha256_out": "8159aafae3760e5f57bc3cab81c2f9567392abe8824dbc7d79aff594f23a061d"
+    },
+    {
+      "file_name": "00400001_000010773622.xlsx",
+      "scoring_name": "00400001_000010773622.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1802,
+      "sha256_out": "a969bc941380fb6481be20c9a3193edbe8849589579fd218e7d22336fd1f1b65"
+    },
+    {
+      "file_name": "00400001_000010773657.xlsx",
+      "scoring_name": "00400001_000010773657.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1213,
+      "sha256_out": "650af4df396f6ed621ee12ce69aecc7eeb8471d371ab13bd6d5719fad0e7a42e"
+    },
+    {
+      "file_name": "00400003_000001233203.xls",
+      "scoring_name": "00400003_000001233203.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 2411,
+      "sha256_out": "8b0b6a9e951392d6456eb79effcee070ac79da504fea6e4104c2ece215f9ae73"
+    },
+    {
+      "file_name": "00400003_000006914000.xlsx",
+      "scoring_name": "00400003_000006914000.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 16,
+      "n_nonempty_cells": 22842,
+      "sha256_out": "1caeb225d4c5f13c88dd110fdbf8c7dffd303c491133fb38a78beb62ee756479"
+    },
+    {
+      "file_name": "00400003_000007338317.xlsx",
+      "scoring_name": "00400003_000007338317.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1012,
+      "sha256_out": "7cafbd0299dc211347a4757ae087c17cf7cf1127a8ed1718010f946d0733c5f9"
+    },
+    {
+      "file_name": "00400004_000001254581.xls",
+      "scoring_name": "00400004_000001254581.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 6,
+      "n_nonempty_cells": 16602,
+      "sha256_out": "4be578bff43ad07b6c2518d7584c6db187603f2807f415c9fc8d93cb846672f8"
+    },
+    {
+      "file_name": "00400004_000001255055.xls",
+      "scoring_name": "00400004_000001255055.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 31931,
+      "sha256_out": "1df104c7564bbd7060fa094e23b3988029d70230378e53de2afa60f714ba30d4"
+    },
+    {
+      "file_name": "00400201_000010779786.xlsx",
+      "scoring_name": "00400201_000010779786.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 469,
+      "sha256_out": "5088cf10ac95da3d7a1898a341a475d9354041545a9867ed84e78628de1d675f"
+    },
+    {
+      "file_name": "00400202_000008638578.xlsx",
+      "scoring_name": "00400202_000008638578.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 10,
+      "n_nonempty_cells": 4742,
+      "sha256_out": "805a97f1e2e25efd23870dd78912bd29ea6dc77bf8bb3390ded8e9e002f3fbb7"
+    },
+    {
+      "file_name": "00400202_000008786568.xlsx",
+      "scoring_name": "00400202_000008786568.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 189,
+      "sha256_out": "f70d1d8cd1c78d8a2b41d5bb73e9da641bcc0f966babf89e675211a40e0376d9"
+    },
+    {
+      "file_name": "00400304_000003235373.xls",
+      "scoring_name": "00400304_000003235373.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 852,
+      "sha256_out": "d5dbc2df77bf25c6b51e8b44eadaf96f96f0f0de27dc4d101d21a0f8b97a4bcf"
+    },
+    {
+      "file_name": "00400304_000007596010.xlsx",
+      "scoring_name": "00400304_000007596010.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1634,
+      "sha256_out": "713c10594b5ee4cce39b7343eaf09e469d0fa15f165e27f1612b8688abc24f3e"
+    },
+    {
+      "file_name": "00400503_000010671161.xlsx",
+      "scoring_name": "00400503_000010671161.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 109,
+      "sha256_out": "a634f94783d6824bc02551f82df55d3117ff5f6ef5b03170f56318bf1d0ea2fd"
+    },
+    {
+      "file_name": "00450011_000008586323.xls",
+      "scoring_name": "00450011_000008586323.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 859629,
+      "sha256_out": "95d41b7ae6377095e591ccccdbb4a3ee3b8cae2b850442b64c67756b4d1ba6a4"
+    },
+    {
+      "file_name": "00450011_000008648749.xlsx",
+      "scoring_name": "00450011_000008648749.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8140,
+      "sha256_out": "47f5cb4686d5272fc9fd57b3c030127e74125faa14bfdef9fe1787c357b8748d"
+    },
+    {
+      "file_name": "00450011_000008682727.xlsx",
+      "scoring_name": "00450011_000008682727.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 29855,
+      "sha256_out": "c9712fae5a335c9d387ff0585bef524bc884993c0ab3ef10df51dfab932e4609"
+    },
+    {
+      "file_name": "00450011_000008744647.xlsx",
+      "scoring_name": "00450011_000008744647.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 449,
+      "sha256_out": "4e7ae5466812fe7aeac92dec08aba27c19eafbea5591a4f44a20de083474803d"
+    },
+    {
+      "file_name": "00450011_000008767242.xlsx",
+      "scoring_name": "00450011_000008767242.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 859629,
+      "sha256_out": "799563606365b2ffdea751dcb8f77e3ff87815b45321c712a19090e832bc6350"
+    },
+    {
+      "file_name": "00450013_000006677533.xlsx",
+      "scoring_name": "00450013_000006677533.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 41881,
+      "sha256_out": "a036952adeead6f1d202e241016243566f897ab6d36ad4bc6454e1e51400e247"
+    },
+    {
+      "file_name": "00450013_000007433467.xlsx",
+      "scoring_name": "00450013_000007433467.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 999,
+      "sha256_out": "0aaf984d5f28d353e920e09f376128ac407dfa8e65b830093e5023e5a306dc9e"
+    },
+    {
+      "file_name": "00450013_000007433680.xlsx",
+      "scoring_name": "00450013_000007433680.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1628,
+      "sha256_out": "1feebaa924d4cdd850daafcd42168398d7cde16f0daa2a636b1cb4374e4594cb"
+    },
+    {
+      "file_name": "00450021_000010424416.xlsx",
+      "scoring_name": "00450021_000010424416.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 93,
+      "sha256_out": "98f812c713183f3121b73db0840897a977d35023427e69e28381d626fe970b44"
+    },
+    {
+      "file_name": "00450022_000008369758.xls",
+      "scoring_name": "00450022_000008369758.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 360,
+      "sha256_out": "3b21719a8395553d10283c6ddec2d9f24e54864406578e998878882524d92b90"
+    },
+    {
+      "file_name": "00450042_000003473891.xls",
+      "scoring_name": "00450042_000003473891.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 926,
+      "sha256_out": "3f8ba600bb16c50f065fd0d7ea2fec5db3ef37cc1a4668de25e8f6bda3c02007"
+    },
+    {
+      "file_name": "00450047_000008608270.xlsx",
+      "scoring_name": "00450047_000008608270.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 62,
+      "sha256_out": "40b6674408065f262a2a6ba9131e7a57fb61f90389420b1773308011d19ebdb6"
+    },
+    {
+      "file_name": "00450047_000009006612.xlsx",
+      "scoring_name": "00450047_000009006612.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1447,
+      "sha256_out": "df591e53f43d5a10a11a3ef1330b932c5bd11cbed0e7a18d6da375563a9ece55"
+    },
+    {
+      "file_name": "00450048_000007414724.xls",
+      "scoring_name": "00450048_000007414724.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 402,
+      "sha256_out": "c0794a840aaa2b6cda6654b6887f27605c28f47bff94ccc7ab0c07fa2fad25dc"
+    },
+    {
+      "file_name": "00450048_000007434214.xlsx",
+      "scoring_name": "00450048_000007434214.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 199,
+      "sha256_out": "c4312cd726130e3c3d3e06abbf2c94af2f448a98134022dcfd8e998f51c02f16"
+    },
+    {
+      "file_name": "00450048_000008639228.xls",
+      "scoring_name": "00450048_000008639228.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 250,
+      "sha256_out": "9603c9e27e32423303d23f94644b5be3a2b4cfaa50979d6500968fc510ae2609"
+    },
+    {
+      "file_name": "00450049_000002984729.xls",
+      "scoring_name": "00450049_000002984729.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2273,
+      "sha256_out": "58b441724cb0852af0db50c66bc88d2025389323daa403debe5e8c1cf164aa60"
+    },
+    {
+      "file_name": "00450049_000002984782.xls",
+      "scoring_name": "00450049_000002984782.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 13,
+      "n_nonempty_cells": 30069,
+      "sha256_out": "69ad56776026e83eb977ef89da2607be8fd856750a491fe029bcdb685b4bf561"
+    },
+    {
+      "file_name": "00450049_000007399796.xls",
+      "scoring_name": "00450049_000007399796.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 103,
+      "sha256_out": "86e59a83352f1c11989f551926890095881ecd4886f6e4f3867b9152d5ce455e"
+    },
+    {
+      "file_name": "00450049_000007399817.xls",
+      "scoring_name": "00450049_000007399817.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 206,
+      "sha256_out": "cdfe0a685caf583437a271cffe7c61c6ce8af78357840c498b9b6c1f58d0fd61"
+    },
+    {
+      "file_name": "00450049_000010687333.xlsx",
+      "scoring_name": "00450049_000010687333.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 799,
+      "sha256_out": "09767ecbfaa43940de99b5ce123e05937f50492f451b3c73269d582c9c2d5382"
+    },
+    {
+      "file_name": "00450071_000008383826.xls",
+      "scoring_name": "00450071_000008383826.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 74892,
+      "sha256_out": "67b5e4f08bdae3e76ddd5883120b33a1ab369a4e7bd8f60c8943fbd1a72cc6fb"
+    },
+    {
+      "file_name": "00450071_000008496072.xls",
+      "scoring_name": "00450071_000008496072.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 74888,
+      "sha256_out": "e6c02abcd969565eeac15d24514e74ee0e095f4f9549e9d1dd8317fe26ebcee8"
+    },
+    {
+      "file_name": "00450071_000008524968.xls",
+      "scoring_name": "00450071_000008524968.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 74888,
+      "sha256_out": "35545db6d3383e8227cdba569d1bdee4402f281f3dd163a32d7ee280badb2675"
+    },
+    {
+      "file_name": "00450071_000008628795.xls",
+      "scoring_name": "00450071_000008628795.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 7163,
+      "sha256_out": "0cb0c0f3091fbb8f75b2e6a3f39789f471bd9831dea519bc996e23bcaf1f2d13"
+    },
+    {
+      "file_name": "00450071_000008703731.xls",
+      "scoring_name": "00450071_000008703731.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 74908,
+      "sha256_out": "d70ab3fc882801d7d74f0a17bb23e6ace5c527c77333142f07e940096aace4d9"
+    },
+    {
+      "file_name": "00450071_000008703859.xls",
+      "scoring_name": "00450071_000008703859.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 72507,
+      "sha256_out": "7db0fa3a8c0f1b0d7ae0d13d646e1e4acb07816f0d9aade7f23b17b95effab7b"
+    },
+    {
+      "file_name": "00450071_000008739677.xls",
+      "scoring_name": "00450071_000008739677.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 72347,
+      "sha256_out": "947ef05942457890d1a5059daeda67209c4ac76ab36f66c10045d78e27154cea"
+    },
+    {
+      "file_name": "00450071_000008941677.xls",
+      "scoring_name": "00450071_000008941677.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 17,
+      "n_nonempty_cells": 51867,
+      "sha256_out": "335584dc71b48e3565c3e3afe8f91dfef54bad880e20beee5b22e274140f1618"
+    },
+    {
+      "file_name": "00450071_000008942321.xls",
+      "scoring_name": "00450071_000008942321.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 17,
+      "n_nonempty_cells": 51663,
+      "sha256_out": "eb44108e64021051283d3230767351931a5e990005b57bca2aa865624fe06403"
+    },
+    {
+      "file_name": "00450071_000008973455.xls",
+      "scoring_name": "00450071_000008973455.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 72339,
+      "sha256_out": "008f19a84a77900e0b5da72dc6ce9895cee8a6e6c2b220e2dfb244bc64092d58"
+    },
+    {
+      "file_name": "00450071_000008973538.xls",
+      "scoring_name": "00450071_000008973538.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 138,
+      "sha256_out": "914f697c1e59f730c3115639b2593a71dccc40ddde414a1fd5d6841f40c39cc3"
+    },
+    {
+      "file_name": "00450071_000010085293.xls",
+      "scoring_name": "00450071_000010085293.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 74856,
+      "sha256_out": "8bf1ca1ffd002dbac6b91208df098689cc770a7d45e453ee318a11e16a0b6cc7"
+    },
+    {
+      "file_name": "00450071_000010784026.xls",
+      "scoring_name": "00450071_000010784026.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 208224,
+      "sha256_out": "96c36a4470ab6cdcb93c6e303586e5b797ae166952085f240003dc2883b62eea"
+    },
+    {
+      "file_name": "00450071_000010852365.xls",
+      "scoring_name": "00450071_000010852365.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 721,
+      "sha256_out": "4ef6f76d8c5f399e032f97dc44fce6948e081035f3b7f8bdeabb4ad72c68651a"
+    },
+    {
+      "file_name": "00450071_000010852410.xls",
+      "scoring_name": "00450071_000010852410.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1748,
+      "sha256_out": "6f83779ebe7e6dd26bf3fd7d86d6fd557e31297e64dffa13e8c3285d20e6f8e8"
+    },
+    {
+      "file_name": "00450074_000001567142.xls",
+      "scoring_name": "00450074_000001567142.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1888,
+      "sha256_out": "64786fd10f1234f66bf7101ba465363f8f2857d383b4c486964cc1c202fa20df"
+    },
+    {
+      "file_name": "00450074_000010056885.xlsx",
+      "scoring_name": "00450074_000010056885.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 2930,
+      "sha256_out": "ed81682828cae50c8af72842d2df6f4b24aa29f5f4e1d6465232621f60589964"
+    },
+    {
+      "file_name": "00450074_000010681616.xlsx",
+      "scoring_name": "00450074_000010681616.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 29,
+      "n_nonempty_cells": 5180,
+      "sha256_out": "9b4ac14217ee204a93d38ab635324cb11309b5b705e1fbc2fa9b45b21917fc63"
+    },
+    {
+      "file_name": "00450091_000001308699.xls",
+      "scoring_name": "00450091_000001308699.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 15,
+      "n_nonempty_cells": 20828,
+      "sha256_out": "2ddd5b3b037cdc084254a2aa981a7a095a649ada351851956bf18ba02c116748"
+    },
+    {
+      "file_name": "00450091_000008701409.xls",
+      "scoring_name": "00450091_000008701409.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 478,
+      "sha256_out": "59542affb8bd32cb53b6ad7588f140a4840278a82a44a1f99d0708c826514126"
+    },
+    {
+      "file_name": "00450091_000008959266.xlsx",
+      "scoring_name": "00450091_000008959266.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 7,
+      "n_nonempty_cells": 11326,
+      "sha256_out": "33d4a436f8944fcaa321036cff5455c1ee0075083987539d272609c542658946"
+    },
+    {
+      "file_name": "00450091_000010817705.xlsx",
+      "scoring_name": "00450091_000010817705.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 16,
+      "n_nonempty_cells": 104320,
+      "sha256_out": "1fd65a88b060b172f10aee954a31fc62b605599839c6ba6893af0fb7571af58f"
+    },
+    {
+      "file_name": "00450094_000007997115.xls",
+      "scoring_name": "00450094_000007997115.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 332,
+      "sha256_out": "1e5f06ed2f57740eeec7953b6d4544e67caaa0fb3a1731cc15fc28978a40617a"
+    },
+    {
+      "file_name": "00450098_000003038590.xls",
+      "scoring_name": "00450098_000003038590.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 548,
+      "sha256_out": "8aa3c0b4420ef3af3df33a850d1e53b3e584081afd61c12235cd86a28cd150f4"
+    },
+    {
+      "file_name": "00450098_000003038601.xls",
+      "scoring_name": "00450098_000003038601.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 969,
+      "sha256_out": "a6c84119a606540ed01367dd00962d7803983404c9565c9b78c8a4e9b9e637d5"
+    },
+    {
+      "file_name": "00450099_000007886545.xls",
+      "scoring_name": "00450099_000007886545.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 476,
+      "sha256_out": "fc3661e141b8dba51ac32a43f190412148d4df1e5fd06040603a27ecf49cb436"
+    },
+    {
+      "file_name": "00450099_000008346044.xls",
+      "scoring_name": "00450099_000008346044.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 365,
+      "sha256_out": "5ea20e24521b6861589065037ee883f390a1727121e451a291a6414a6ea244c4"
+    },
+    {
+      "file_name": "00450106_000008790856.xlsx",
+      "scoring_name": "00450106_000008790856.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1287,
+      "sha256_out": "d8eb2f87e0c946b17c092fd3700511339df9af6ecb58a8ecc00f80ccf4b2bf4b"
+    },
+    {
+      "file_name": "00450151_000008525312.xls",
+      "scoring_name": "00450151_000008525312.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 31,
+      "sha256_out": "7f38611c270d376bc3997ba7258db8366da510333cab018b919a0a6ffe8646e4"
+    },
+    {
+      "file_name": "00450152_000002884042.xls",
+      "scoring_name": "00450152_000002884042.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 425,
+      "sha256_out": "ef9873c72c5c489109fd4f8dd5a716f01b0210ebf1bec5d24c9ea0a582208d8e"
+    },
+    {
+      "file_name": "00450171_000006864436.xlsx",
+      "scoring_name": "00450171_000006864436.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 458,
+      "sha256_out": "5b1ba815125e31f064dcc7a45be23d8e2b9ebbebb458f3cff6775944f5e12dae"
+    },
+    {
+      "file_name": "00450171_000008615398.xlsx",
+      "scoring_name": "00450171_000008615398.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 479,
+      "sha256_out": "73abaddae5cfaaf794b58bfb7d4233ffcee9224cf4bf3f0915344e268024800e"
+    },
+    {
+      "file_name": "00450173_000010782236.xlsx",
+      "scoring_name": "00450173_000010782236.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 23,
+      "sha256_out": "6c931d82d7c0e48fc978c753436980b6c9a2c6af1f8d28d63e6cf2d4176a1590"
+    },
+    {
+      "file_name": "00450173_000010782346.xlsx",
+      "scoring_name": "00450173_000010782346.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8,
+      "sha256_out": "145a663bbd51c5806300bed31f1891a1971ad704143cc3476d5379a31a72b3fa"
+    },
+    {
+      "file_name": "00450173_000010782424.xlsx",
+      "scoring_name": "00450173_000010782424.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 10,
+      "sha256_out": "9c50ba8a86b714f1c568a1286e92207eadc5ae2de26de7d0117c6710dc9fabc9"
+    },
+    {
+      "file_name": "00450173_000010782470.xlsx",
+      "scoring_name": "00450173_000010782470.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 10,
+      "sha256_out": "45b63af53848575b802a0b5e8cf85b20e5976ff599b10428dd77c12cbe9f48c8"
+    },
+    {
+      "file_name": "00450173_000010782540.xlsx",
+      "scoring_name": "00450173_000010782540.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 6,
+      "sha256_out": "3328920b8d0159a9e37379b37b927aa05c54e25490750ab686e8bc9914d7349f"
+    },
+    {
+      "file_name": "00450173_000010782717.xlsx",
+      "scoring_name": "00450173_000010782717.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 23,
+      "sha256_out": "3a52373aa046428175eafbb01e8387ddf265bbe81974cb8676158b2f5518c4d7"
+    },
+    {
+      "file_name": "00450173_000010837884.xlsx",
+      "scoring_name": "00450173_000010837884.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 686,
+      "sha256_out": "05c9a2155c78ae23aafc8d3dc959812ac7640c0f8f27361b86d7bd41533f4588"
+    },
+    {
+      "file_name": "00450173_000010837925.xlsx",
+      "scoring_name": "00450173_000010837925.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 683,
+      "sha256_out": "ac0f4399170bd75771196639695f5a7b50103ec7d59c6b9c71f225e5b7691005"
+    },
+    {
+      "file_name": "00450173_000010839474.xlsx",
+      "scoring_name": "00450173_000010839474.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 683,
+      "sha256_out": "8710f4ce8927f2563590c4621bb49b477f9beb4400c1b36a9b1a40d37279c7ea"
+    },
+    {
+      "file_name": "00450201_000010003526.xlsx",
+      "scoring_name": "00450201_000010003526.xlsx",
+      "status": "ok",
+      "note": "resaved",
+      "resave_reason": "ファイル '00450201_000010003526.xlsx' の拡張子は '.xlsx' ですが、実際のファイル内容は 'xlsb' として検出されました。拡張子が偽装されている可能性があります。",
+      "n_sheets": 47,
+      "n_nonempty_cells": 86354,
+      "sha256_out": "eb11d3e363847769710b86b308602545734c85c4384bebfae5950967fff4bc13"
+    },
+    {
+      "file_name": "00450211_000003924931.xls",
+      "scoring_name": "00450211_000003924931.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 352,
+      "sha256_out": "b8f36d4dfa25fc0b0c1d17921df47c38fd1f8ad6c9580636d60200495860136b"
+    },
+    {
+      "file_name": "00450211_000007547919.xls",
+      "scoring_name": "00450211_000007547919.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 346,
+      "sha256_out": "03fc985ca8f60fedfbb1109edd37292145f8df1f3e817ad7a268ebe986fbd353"
+    },
+    {
+      "file_name": "00450211_000008978074.xls",
+      "scoring_name": "00450211_000008978074.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 356,
+      "sha256_out": "c217adb2942b4f92bf8e1d4d0dd5e31b772e0b3be93f77aba72083f0296c4881"
+    },
+    {
+      "file_name": "00450211_000010396931.xls",
+      "scoring_name": "00450211_000010396931.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 426,
+      "sha256_out": "77115baf027f880c681fe951ece55dd384f4cdf8f817e1db7734b0f3b60f8be3"
+    },
+    {
+      "file_name": "00450218_000010106689.xls",
+      "scoring_name": "00450218_000010106689.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 820,
+      "sha256_out": "21c5df60d60cade8717dfbc5eaff59346c449c340d32616a34b161eaa369756b"
+    },
+    {
+      "file_name": "00450223_000010727202.xlsx",
+      "scoring_name": "00450223_000010727202.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 3166,
+      "sha256_out": "1d521d3bcd95f9c1e92fd207eb80e4f84cb57c3841a1a9e58b54b5ac2d1286b6"
+    },
+    {
+      "file_name": "00450273_000010077453.xls",
+      "scoring_name": "00450273_000010077453.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 32,
+      "sha256_out": "1462e27fc2198f7d77517751ca47ca5d5d215b697e6cb3848a16f795b94c3835"
+    },
+    {
+      "file_name": "00450274_000008561264.xls",
+      "scoring_name": "00450274_000008561264.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 108,
+      "sha256_out": "a9eb713bbcaadd041b1493759f6e5c91ad8f2fbf329fe90bdb17327dc55cf51c"
+    },
+    {
+      "file_name": "00450275_000009273517.xlsx",
+      "scoring_name": "00450275_000009273517.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 200,
+      "sha256_out": "5bdc801f082a102a40f78adf97ae9f40f90d5d1ba36db70557cb669f75677d27"
+    },
+    {
+      "file_name": "00450275_000009273841.xlsx",
+      "scoring_name": "00450275_000009273841.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 200,
+      "sha256_out": "52972f7e7f7bed2d4dac0456b8cadba1bdeb0c9bdac75975db819783fccd31f5"
+    },
+    {
+      "file_name": "00450275_000009273881.xlsx",
+      "scoring_name": "00450275_000009273881.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 30,
+      "sha256_out": "095755bf3d4bedd744542bda4d6f1fca9d95c287428adcdc05a8b606630f1320"
+    },
+    {
+      "file_name": "00450311_000003611431.xls",
+      "scoring_name": "00450311_000003611431.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 188,
+      "sha256_out": "2aa11a26d6f6716d73268556ef7430fb10121f7a2b23c3af9164a538b64a17a4"
+    },
+    {
+      "file_name": "00450312_000009213268.xlsx",
+      "scoring_name": "00450312_000009213268.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 11,
+      "n_nonempty_cells": 7370,
+      "sha256_out": "72548549b5e2310f44c70e7bed37bd6148f5c24a19914657fcdeaa31977b4228"
+    },
+    {
+      "file_name": "00450313_000009091382.xlsx",
+      "scoring_name": "00450313_000009091382.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 406,
+      "sha256_out": "b290bd8bd17e083ee5ba4cd5a7a9b8856450277e4bd84b562bd0c37e92a71b16"
+    },
+    {
+      "file_name": "00450313_000010654329.xlsx",
+      "scoring_name": "00450313_000010654329.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1406,
+      "sha256_out": "2733915bfcc04128552e0f784a5da936cd80edaa2cb1d3c3cf3432ecaabcba69"
+    },
+    {
+      "file_name": "00450342_000003381087.xls",
+      "scoring_name": "00450342_000003381087.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 86,
+      "sha256_out": "024d0b1431bfbe3a9bcd24cc7d48131bc9a2d851f3a4563bce91eda26c91b973"
+    },
+    {
+      "file_name": "00450351_000002886794.xls",
+      "scoring_name": "00450351_000002886794.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2826,
+      "sha256_out": "b28259cbc9832e460b825d842765e1e5867fa1abf96bb469c00cc5a761a0da34"
+    },
+    {
+      "file_name": "00450351_000004996286.xls",
+      "scoring_name": "00450351_000004996286.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 2,
+      "n_nonempty_cells": 560996,
+      "sha256_out": "8d7780ebf3fd6c8e1b0e67ef9af0e5ce73e076202306cf8ea2207bddbc1862e5"
+    },
+    {
+      "file_name": "00450351_000010658986.xlsx",
+      "scoring_name": "00450351_000010658986.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1874,
+      "sha256_out": "5e67979136a0bb87d99ae894256d3e5f673e1cd14cff15f525a27083daa48c72"
+    },
+    {
+      "file_name": "00450371_000010865991.xls",
+      "scoring_name": "00450371_000010865991.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 613,
+      "sha256_out": "f7e83cb9bed577bcc47dfe5da21dbf1b1d1ebeb79cd34c46a854537e70ec6890"
+    },
+    {
+      "file_name": "00450376_000004287729.xls",
+      "scoring_name": "00450376_000004287729.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 193,
+      "sha256_out": "a9ff758386d29758a7f86bea58ed8a55add2c8b98abe7279695c2ceacd117ce3"
+    },
+    {
+      "file_name": "00450376_000004288188.xls",
+      "scoring_name": "00450376_000004288188.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 133,
+      "sha256_out": "76d18ace7340225171791e0ce8c0cc630ccaae9f5032fcc7f674a048d69e02ad"
+    },
+    {
+      "file_name": "00450376_000004291645.xls",
+      "scoring_name": "00450376_000004291645.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 615,
+      "sha256_out": "49aac8422a1e9470ffdf308da4bb5df00cc67eeeabacaf61af17c8ec52efb659"
+    },
+    {
+      "file_name": "00450376_000008149019.xls",
+      "scoring_name": "00450376_000008149019.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1031,
+      "sha256_out": "258403d78c1048b5857a38e3d12db5cf61af733b63ce1a9c772a8ae64c08714e"
+    },
+    {
+      "file_name": "00450376_000010609710.xls",
+      "scoring_name": "00450376_000010609710.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 942,
+      "sha256_out": "0dba1123442606330735d7362af559634f2ce06bd3f6703d754cd13cbf2847dc"
+    },
+    {
+      "file_name": "00450388_000010622539.xlsx",
+      "scoring_name": "00450388_000010622539.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 22649,
+      "sha256_out": "6539828950db1e3ae212e8285777274e6110ebf709058f6abdf3319427f31ff1"
+    },
+    {
+      "file_name": "00450390_000010785315.xlsx",
+      "scoring_name": "00450390_000010785315.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 4670,
+      "sha256_out": "3e2b93ece41802faad81a081f558b5d424f26cbeada0c517fe46fa9a2939a790"
+    },
+    {
+      "file_name": "00450390_000010882402.xlsx",
+      "scoring_name": "00450390_000010882402.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 4818,
+      "sha256_out": "20e14ba572bb1921ce780ddf0fa9002df36206083d965d574e754bcee4c8412a"
+    },
+    {
+      "file_name": "00450391_000010741762.xlsx",
+      "scoring_name": "00450391_000010741762.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1436,
+      "sha256_out": "22d1bf3027c6e57fc457ff66db7dd50eea929a792a5811e49db21fd471418736"
+    },
+    {
+      "file_name": "00450394_000003216041.xls",
+      "scoring_name": "00450394_000003216041.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 14,
+      "n_nonempty_cells": 3569,
+      "sha256_out": "1f64f31cca14d03afeadb03eb898a75c3abf70f4ccf79e381cd05ad8d388e0cb"
+    },
+    {
+      "file_name": "00450394_000003216047.xls",
+      "scoring_name": "00450394_000003216047.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 13,
+      "n_nonempty_cells": 9894,
+      "sha256_out": "73e9aa92ccc38290746504bfa55e75e167ffba704dcd261d1b64b55582c890b9"
+    },
+    {
+      "file_name": "00450396_000008485476.xlsx",
+      "scoring_name": "00450396_000008485476.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1490,
+      "sha256_out": "65037cb5b8612a437b21d99de5d40b9a95b867f3729ee6eeaca4eed3cb3efb59"
+    },
+    {
+      "file_name": "00450396_000010657490.xlsx",
+      "scoring_name": "00450396_000010657490.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 934,
+      "sha256_out": "de2d4db85bf3a9f35c927395a95064b6f0fab36efaf2479ea38c1f1c802934d3"
+    },
+    {
+      "file_name": "00450397_000003612557.xls",
+      "scoring_name": "00450397_000003612557.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 7,
+      "n_nonempty_cells": 242,
+      "sha256_out": "5cbddf0b0ba861550bbbca24fb08c745de1a474f8a2d8365f822c028d4448b2f"
+    },
+    {
+      "file_name": "00450397_000010847162.xlsx",
+      "scoring_name": "00450397_000010847162.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 35,
+      "n_nonempty_cells": 4507,
+      "sha256_out": "f5bd3f5b9f41db027fe556e10663fa0aaed88eb495c6fc302bfdb47700e60f90"
+    },
+    {
+      "file_name": "00450411_000006031433.xlsx",
+      "scoring_name": "00450411_000006031433.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 552,
+      "sha256_out": "01641cbf920175988ec47af33d5cc3b6098ff663cf330c77f15d265ad51af73c"
+    },
+    {
+      "file_name": "00450421_000008781401.xlsx",
+      "scoring_name": "00450421_000008781401.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 276,
+      "sha256_out": "1d6b4e35c99d27a5499e95322a178e149178cd16121a1bbe2a8ad20d62ce8c6a"
+    },
+    {
+      "file_name": "00450433_000010202708.xlsx",
+      "scoring_name": "00450433_000010202708.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 153,
+      "sha256_out": "901b34e4355e11dae6c7378f0d449cb3aab37a053f98517ce65d0b9a3908bb86"
+    },
+    {
+      "file_name": "00450437_000007992327.xlsx",
+      "scoring_name": "00450437_000007992327.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 5,
+      "n_nonempty_cells": 1542,
+      "sha256_out": "48a178f652a2bbee2f2d5a236d8f85e9a6f8cc6dd99f23be8a004b7e6c660668"
+    },
+    {
+      "file_name": "00450437_000008290944.xlsx",
+      "scoring_name": "00450437_000008290944.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 299,
+      "sha256_out": "fece169f9d11e6e165abeb9db19dbc149b00317e3cdfce9cbec5d43b4098c0d4"
+    },
+    {
+      "file_name": "00450437_000008488121.xlsx",
+      "scoring_name": "00450437_000008488121.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 519,
+      "sha256_out": "de5967054344c98ffc8d39c005d0199c5f3aaa7ef643146a61704119b498d382"
+    },
+    {
+      "file_name": "00450464_000009100858.xlsx",
+      "scoring_name": "00450464_000009100858.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 6944,
+      "sha256_out": "d663ec9854766ba5bcd7b05771eeabdb8791a0274ffbdc33d62b4805768660e1"
+    },
+    {
+      "file_name": "00450464_000010844719.xlsx",
+      "scoring_name": "00450464_000010844719.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 511,
+      "sha256_out": "59e1cadd0d46326ceeb6cf784d2abe596adfdca4bb440a4bc070bd701f4366c0"
+    },
+    {
+      "file_name": "00450464_000010844732.xlsx",
+      "scoring_name": "00450464_000010844732.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 511,
+      "sha256_out": "6feb7570b954a1004de3781f35072d44fe30489a30a8a7a3804893dc90cda8f4"
+    },
+    {
+      "file_name": "00450471_000003866669.xls",
+      "scoring_name": "00450471_000003866669.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 273,
+      "sha256_out": "d51658bb14446687814acb74613626bf3ee065c4a2d4ba090070fa3ec78f4040"
+    },
+    {
+      "file_name": "00450471_000010683070.xlsx",
+      "scoring_name": "00450471_000010683070.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 20281,
+      "sha256_out": "1ab9d4344ae8414c90cec9aef3424b97d58551d60024da280875daabe1bac395"
+    },
+    {
+      "file_name": "00450471_000010683125.xlsx",
+      "scoring_name": "00450471_000010683125.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 135,
+      "sha256_out": "0ba754cbd06bb21e438ac624516359e9ebdc0503bc8b9cf0e1dc02a3359e0007"
+    },
+    {
+      "file_name": "00450471_000010683129.xlsx",
+      "scoring_name": "00450471_000010683129.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 176,
+      "sha256_out": "65bba85a963533a67e435f5b45f689d389caa8f10ed3348fa9e2ce8868c42f1f"
+    },
+    {
+      "file_name": "00450581_000010878704.xlsx",
+      "scoring_name": "00450581_000010878704.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 301,
+      "sha256_out": "3a46621f814af312effda1368fffc731c9b589890a3f6d28873ffda3f57a48de"
+    },
+    {
+      "file_name": "00452001_000003595381.xls",
+      "scoring_name": "00452001_000003595381.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 452,
+      "sha256_out": "4bd2fbdbcecd79e99a5e7994b7b1f20faaf4847b4061350cb13e61300f60a173"
+    },
+    {
+      "file_name": "00500001_000010831948.xls",
+      "scoring_name": "00500001_000010831948.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 6,
+      "n_nonempty_cells": 4140,
+      "sha256_out": "51c29d0999d4a72bf18a91f292238d23386ff2c3b5a36c4ff0dd9844fa48b0f9"
+    },
+    {
+      "file_name": "00500100_000003497489.xls",
+      "scoring_name": "00500100_000003497489.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 3,
+      "n_nonempty_cells": 26,
+      "sha256_out": "c2c3c2de0a257dd89bd541cf1ebfd7a2f31c2309cf69c9a13861c144c3d37fee"
+    },
+    {
+      "file_name": "00500100_000009103469.xls",
+      "scoring_name": "00500100_000009103469.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 28,
+      "n_nonempty_cells": 20521,
+      "sha256_out": "0f4bcf3c26a2b194279e10b22a9268210b8a89fd57c7f2ad53db2b8b064a0ada"
+    },
+    {
+      "file_name": "00500201_000001592806.xls",
+      "scoring_name": "00500201_000001592806.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1029,
+      "sha256_out": "66f34d52e567fdecf5b8cad6a6d5662ab0b39361225e88bc3a10ee33a8b001fd"
+    },
+    {
+      "file_name": "00500201_000003459065.xls",
+      "scoring_name": "00500201_000003459065.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 924,
+      "sha256_out": "fed9f5c365db51c1a73d89f9d4d3211adf31c4697bfc3e9eab61cc14e11080ce"
+    },
+    {
+      "file_name": "00500201_000008228755.xls",
+      "scoring_name": "00500201_000008228755.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 500,
+      "sha256_out": "2bc266f7f8c688622f3d31473d397fbe6e4d039a6825f1cf5b9001fcc56d2e03"
+    },
+    {
+      "file_name": "00500201_000008605029.xls",
+      "scoring_name": "00500201_000008605029.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 874,
+      "sha256_out": "eb87df31d69f31deabc470cd152ad0f0dbe5b1974768574f210303373e69fbea"
+    },
+    {
+      "file_name": "00500203_000003546572.xls",
+      "scoring_name": "00500203_000003546572.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 287,
+      "sha256_out": "95f522944b486d418d11e61e71a3f3a6600c2cb0a105bf91dae93a13d5fa61bf"
+    },
+    {
+      "file_name": "00500203_000010797294.xls",
+      "scoring_name": "00500203_000010797294.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 146,
+      "sha256_out": "592ef01e2e58ca0e5363288759045b94d93fe1749cf2289bdcb6135f53f98c0d"
+    },
+    {
+      "file_name": "00500207_000010807761.xlsx",
+      "scoring_name": "00500207_000010807761.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1218,
+      "sha256_out": "b6e363c79ddad046464a3a8f13e5d21f50ec829671f8741d4d1a799d258e99b5"
+    },
+    {
+      "file_name": "00500209_000003353032.xls",
+      "scoring_name": "00500209_000003353032.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 102,
+      "sha256_out": "9b1e2529e1618c35e6f0657f2212a567601c340837c49e0f11d3f2e2d582ccd1"
+    },
+    {
+      "file_name": "00500209_000003353711.xls",
+      "scoring_name": "00500209_000003353711.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 135,
+      "sha256_out": "9934aa539cd074f205eb6aa7c3664dda3ec8bd1a12ae427600778e3ace6c7716"
+    },
+    {
+      "file_name": "00500209_000003354012.xls",
+      "scoring_name": "00500209_000003354012.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 114,
+      "sha256_out": "5626ef58b86cc23b6b6ad0331596ec859efa51176251beca141fc9b001660954"
+    },
+    {
+      "file_name": "00500209_000003354082.xls",
+      "scoring_name": "00500209_000003354082.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 132,
+      "sha256_out": "c30fe66adf1fc03a6f7703437c3bf1f9114dd01942e358c0b7a810df2d086f18"
+    },
+    {
+      "file_name": "00500209_000003354653.xls",
+      "scoring_name": "00500209_000003354653.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 21,
+      "sha256_out": "dc5b3c6e89246b8d05a2701d943e980621e968b1f3b0452139ca3cef8c29777b"
+    },
+    {
+      "file_name": "00500209_000003355037.xls",
+      "scoring_name": "00500209_000003355037.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 50,
+      "sha256_out": "48aedbafd992e27a1d545a3b30b2e50e739b4f8bde770b361753258efb96cc4b"
+    },
+    {
+      "file_name": "00500209_000003355799.xls",
+      "scoring_name": "00500209_000003355799.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 370,
+      "sha256_out": "122aff4e15eb8dc41d2c70ad75864b1c5d787c771499380185c029a34b1c7f6b"
+    },
+    {
+      "file_name": "00500209_000003355835.xls",
+      "scoring_name": "00500209_000003355835.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 43,
+      "sha256_out": "9a4eb8cfbeb32229791d32bf5ed097ed5d20b5729622a0ab7ac60db1d404053a"
+    },
+    {
+      "file_name": "00500209_000003356116.xls",
+      "scoring_name": "00500209_000003356116.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 253,
+      "sha256_out": "ef904d5aac088c8a8e1430dc181caf7c4b764ebe00fb7ab8e49f2a5d1f489cd8"
+    },
+    {
+      "file_name": "00500209_000003356404.xls",
+      "scoring_name": "00500209_000003356404.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 43,
+      "sha256_out": "a8b37c2b1fa926ffe3dc1d517acc904f319e45c482f0a39eb5a531c77793a9cf"
+    },
+    {
+      "file_name": "00500209_000003356441.xls",
+      "scoring_name": "00500209_000003356441.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 43,
+      "sha256_out": "33d763edc96aaa996e0957d13fdf7abcdb109bb40f0dee14c704532f39377c82"
+    },
+    {
+      "file_name": "00500209_000003356494.xls",
+      "scoring_name": "00500209_000003356494.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 280,
+      "sha256_out": "c9cedd519771edfe09fe3aa58c7c861c9678dff5d5d164a56072c36087b1b91f"
+    },
+    {
+      "file_name": "00500209_000003356566.xls",
+      "scoring_name": "00500209_000003356566.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 59,
+      "sha256_out": "3f0aa9b123a2a87e3577f93abc227292ced56df23e76014cee8db6ad47f7b2ce"
+    },
+    {
+      "file_name": "00500209_000003357085.xls",
+      "scoring_name": "00500209_000003357085.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 356,
+      "sha256_out": "22c503f57675012532be426fc77e7b8d6622cb50d709dfb3efe7cc5e8faf0fad"
+    },
+    {
+      "file_name": "00500209_000003357543.xls",
+      "scoring_name": "00500209_000003357543.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 323,
+      "sha256_out": "b3b9a8c1a9f9ba9f823fb780431a3d3994c13b57b17616895f882770b9183d5b"
+    },
+    {
+      "file_name": "00500209_000003358755.xls",
+      "scoring_name": "00500209_000003358755.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 104,
+      "sha256_out": "2ffba562f3cf6cb5bc0dc935c1bc7062ff3e67e9e683a2cd1e01c991be8f9c89"
+    },
+    {
+      "file_name": "00500209_000003363917.xls",
+      "scoring_name": "00500209_000003363917.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 156,
+      "sha256_out": "d34297cfe8df5d9514dcb3d1c368bd599e48ffd53c05b9dfb06935192f403929"
+    },
+    {
+      "file_name": "00500209_000005137007.xls",
+      "scoring_name": "00500209_000005137007.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3674,
+      "sha256_out": "8db23af05b525a9636e077a0db314e1f0de1abf53eca7ce7a077e5a381fc23c4"
+    },
+    {
+      "file_name": "00500209_000007963071.xls",
+      "scoring_name": "00500209_000007963071.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2725,
+      "sha256_out": "7070cb81273fd4c61859b44ebf091326a469aad2af9f0cdc7c36ee15f59d98e5"
+    },
+    {
+      "file_name": "00500209_000008698002.xls",
+      "scoring_name": "00500209_000008698002.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 182,
+      "sha256_out": "e9589f2af93646f9b403aea77dbc4f9d532845c7664c49012e4eda0bf71e7cde"
+    },
+    {
+      "file_name": "00500210_000007478553.xls",
+      "scoring_name": "00500210_000007478553.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 54,
+      "n_nonempty_cells": 47726,
+      "sha256_out": "e253f2d6da7165302be3ae9471b16eeb0605622f77bb9c3a3c5b69339abbff0b"
+    },
+    {
+      "file_name": "00500210_000008592118.xls",
+      "scoring_name": "00500210_000008592118.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 15375,
+      "sha256_out": "23289bfe36d9e0632793984ffbba24612cc757b385eab57994da318ec5b5859e"
+    },
+    {
+      "file_name": "00500211_000010450977.xlsx",
+      "scoring_name": "00500211_000010450977.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 260,
+      "sha256_out": "e21dc4bcbd3471b535deadff464550b48ed34cb9754d7fbc92d9132dd2ede4f8"
+    },
+    {
+      "file_name": "00500215_000003390663.xls",
+      "scoring_name": "00500215_000003390663.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 56,
+      "sha256_out": "ef16958f325ae84670a761c2064ceaed032f8832d5d0d70c63f7253f70ced12c"
+    },
+    {
+      "file_name": "00500215_000003446522.xls",
+      "scoring_name": "00500215_000003446522.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 107,
+      "sha256_out": "dc10ebc2fb6af647fbb00d2608ea8d6701e3000d72816880ae5dee37fd5f833f"
+    },
+    {
+      "file_name": "00500215_000003454270.xls",
+      "scoring_name": "00500215_000003454270.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 57,
+      "sha256_out": "cb688fb5f03def496301c1e505ca39299df419795cf1b5141222f42b0dcf5326"
+    },
+    {
+      "file_name": "00500215_000010872793.xlsx",
+      "scoring_name": "00500215_000010872793.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 228,
+      "sha256_out": "68817a629a9932152df8a6a14ac357593e6a411d65c4bd03024d2eca94713b55"
+    },
+    {
+      "file_name": "00500219_000006646366.xls",
+      "scoring_name": "00500219_000006646366.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 43,
+      "sha256_out": "b8a746bd844b9a1a0b2c8e298925702b1a87d59cb9ae1ece85222c5f3fd8a48b"
+    },
+    {
+      "file_name": "00500222_000010808343.xlsx",
+      "scoring_name": "00500222_000010808343.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 218,
+      "sha256_out": "e72efac502e56dfef3ce7b94e23bdeabfe5dd39940a81aa185c83b9873dca073"
+    },
+    {
+      "file_name": "00500226_000006329209.xls",
+      "scoring_name": "00500226_000006329209.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1492,
+      "sha256_out": "01e9fe07c4d9e10c8089495e12d9b98c7be744fd407a04b254af1e499466d2ba"
+    },
+    {
+      "file_name": "00500226_000010668600.xlsx",
+      "scoring_name": "00500226_000010668600.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1861,
+      "sha256_out": "26d94f9d8bcada0eca0ab958542f7386f55f057e13d19700a5a0451dbc82ef17"
+    },
+    {
+      "file_name": "00500227_000006309496.xls",
+      "scoring_name": "00500227_000006309496.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2578,
+      "sha256_out": "1d638ee1df1aaa6514a3c046294d9c6925514709078da2af55e54f0e5bfb6547"
+    },
+    {
+      "file_name": "00500228_000010666923.xlsx",
+      "scoring_name": "00500228_000010666923.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 362,
+      "sha256_out": "6f55643ce727fd20e5cae1ef9d41d653ee4bffd1d417310cda7b1bf12aa1d52f"
+    },
+    {
+      "file_name": "00500231_000003165779.xls",
+      "scoring_name": "00500231_000003165779.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 444,
+      "sha256_out": "74c2a43fa83c04cd6e8ee6eeb7adfcb79f9f3ad7d36272626a12d8fbe9944e52"
+    },
+    {
+      "file_name": "00500232_000003543453.xls",
+      "scoring_name": "00500232_000003543453.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 86,
+      "sha256_out": "889d26bf3e09dde70a514ff43b16bde1dc006f794da0793e2a4b31277f22487a"
+    },
+    {
+      "file_name": "00500232_000003543456.xls",
+      "scoring_name": "00500232_000003543456.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 121,
+      "sha256_out": "8c3b2b48d0a78b1545e2e417277cf88bee27f609735a6a77969342782a380030"
+    },
+    {
+      "file_name": "00500232_000003543676.xls",
+      "scoring_name": "00500232_000003543676.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 305,
+      "sha256_out": "320deb8e2ddaaf0a658b4aa7d49aae6e08697b38250eddbd2a5aabb074362a4b"
+    },
+    {
+      "file_name": "00500232_000005973461.xls",
+      "scoring_name": "00500232_000005973461.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 95,
+      "sha256_out": "a34289abe6ea4224d5c73f10f62794494b74561968c512836ec4fa55a2d4955d"
+    },
+    {
+      "file_name": "00500233_000001238189.xls",
+      "scoring_name": "00500233_000001238189.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 137,
+      "sha256_out": "14f2b68e9a42b3f2dcdd17fe7d066fa387b3478bef83d8090184371d6c453c87"
+    },
+    {
+      "file_name": "00500233_000003543714.xls",
+      "scoring_name": "00500233_000003543714.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 440,
+      "sha256_out": "0f1d1a35fd1aff119e7b9f21b593a015ab0fd0a5cfc5b96d4133113b87492856"
+    },
+    {
+      "file_name": "00500233_000003543715.xls",
+      "scoring_name": "00500233_000003543715.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 401,
+      "sha256_out": "5f9c74959162c06b134f1dda156717562ffa09bc5b294732d42357aedbfa08e5"
+    },
+    {
+      "file_name": "00500236_000001253834.xls",
+      "scoring_name": "00500236_000001253834.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 120,
+      "sha256_out": "89061b98fecb88475ab429cedcd3db0877b6f98e87c8f7ff98a3353b5356a1e1"
+    },
+    {
+      "file_name": "00500238_000009159858.xls",
+      "scoring_name": "00500238_000009159858.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 75,
+      "sha256_out": "33c19510742e50ea93821723b03edff3738aa5cdfc6126ba3c4503c541941a79"
+    },
+    {
+      "file_name": "00500241_000006023155.xls",
+      "scoring_name": "00500241_000006023155.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 229,
+      "sha256_out": "e654f610a8ab91b576c9d5269c63c9c1b91ac41b2faa67327f761995f3361da7"
+    },
+    {
+      "file_name": "00500242_000003288437.xls",
+      "scoring_name": "00500242_000003288437.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 4827,
+      "sha256_out": "20921443fff8cfdcce79c64ae1b55828e5709a680eff8643610081368d83d75c"
+    },
+    {
+      "file_name": "00500243_000003326637.xls",
+      "scoring_name": "00500243_000003326637.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 121,
+      "sha256_out": "b7cf74809368b243738b2f5b0adff24c05b8e410fda62866058030a80afdacbb"
+    },
+    {
+      "file_name": "00500248_000010759358.xlsx",
+      "scoring_name": "00500248_000010759358.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 815,
+      "sha256_out": "7b94c4b3036e29eb549e14c080d56ebf54b68c91996857e158c87af348f4b5ef"
+    },
+    {
+      "file_name": "00500250_000009041607.xlsx",
+      "scoring_name": "00500250_000009041607.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1406,
+      "sha256_out": "b47c6e3a68a8f98046b7fbb6f7c6368ea5f10bfff09485aa6c09daa439e52f72"
+    },
+    {
+      "file_name": "00500310_000003538230.xls",
+      "scoring_name": "00500310_000003538230.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 53,
+      "sha256_out": "7a1d957f9206230777a13934d266374fb5dffa66af8320d4f534aa7a957e7a61"
+    },
+    {
+      "file_name": "00500310_000003538656.xls",
+      "scoring_name": "00500310_000003538656.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 345,
+      "sha256_out": "e5ffdd61b406462556228dce553160daed1bcfcefc3c0fb5d78050d4ae5a9125"
+    },
+    {
+      "file_name": "00500310_000003643416.xls",
+      "scoring_name": "00500310_000003643416.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 164,
+      "sha256_out": "ed590d963cfe14fc9fba0f1fec3836e2b2e421a3d5bc95c376077df6cab67b74"
+    },
+    {
+      "file_name": "00500502_000003451327.xls",
+      "scoring_name": "00500502_000003451327.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 468,
+      "sha256_out": "24b17f19544165538524d22c50f836f6db079babb7db352d9166e892ca22c41c"
+    },
+    {
+      "file_name": "00500502_000004083531.xls",
+      "scoring_name": "00500502_000004083531.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 666,
+      "sha256_out": "93087ddbcdfb5578f6b9b02d422ee10a576b358d61334c9b6c15b94bfc955c83"
+    },
+    {
+      "file_name": "00500505_000003467721.xls",
+      "scoring_name": "00500505_000003467721.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 608,
+      "sha256_out": "10f32854ec96a22eb6f79698d83649dab0117b75fc145fdf89cf26669abb0086"
+    },
+    {
+      "file_name": "00500506_000003176183.xls",
+      "scoring_name": "00500506_000003176183.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 14,
+      "sha256_out": "827961a0ebbf486cc164c194dad445d40208ea3c736d6ead91a49271bcb937f9"
+    },
+    {
+      "file_name": "00500600_000005152169.xls",
+      "scoring_name": "00500600_000005152169.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 16,
+      "n_nonempty_cells": 13267,
+      "sha256_out": "cb08915b300a363a11a39ebe592933d772f7402cc1fcdb51d071d0618c5a550f"
+    },
+    {
+      "file_name": "00500601_000004340272.xls",
+      "scoring_name": "00500601_000004340272.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1496,
+      "sha256_out": "4819f05dad3a25f04659cb7993c1262b3bd8e42b6d30e90501429dd68a109e72"
+    },
+    {
+      "file_name": "00500602_000001559874.xls",
+      "scoring_name": "00500602_000001559874.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 640,
+      "sha256_out": "09f66bc18e99133b650a220cceb106b7944564e739c15b0b17b460f619652efa"
+    },
+    {
+      "file_name": "00500602_000003374575.xls",
+      "scoring_name": "00500602_000003374575.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1760,
+      "sha256_out": "b6819e9b2236ffb006a6bca5950ac960965553e7d8a13e10603ccbd6ba4db96c"
+    },
+    {
+      "file_name": "00500602_000003481725.xls",
+      "scoring_name": "00500602_000003481725.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 468,
+      "sha256_out": "fbe971cec1fc78fb77d574217104652d12d4407e62b3179b68a9a456ed13df92"
+    },
+    {
+      "file_name": "00500602_000003507621.xls",
+      "scoring_name": "00500602_000003507621.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 436,
+      "sha256_out": "9debacb9188856b036a89f5fabb2c3e206c2276195f1d86c6be80073646e907d"
+    },
+    {
+      "file_name": "00500602_000006896003.xls",
+      "scoring_name": "00500602_000006896003.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 860,
+      "sha256_out": "74001e2f2f090ccea7eba9800b83b27c04e4a82e06f0c66995d5ffaf92f3a8d9"
+    },
+    {
+      "file_name": "00500602_000007666560.xls",
+      "scoring_name": "00500602_000007666560.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 680,
+      "sha256_out": "b575e88b8691eec1fcd24ef9d5db25fa76f32a73432a3c298c2cff9f22e150a8"
+    },
+    {
+      "file_name": "00500602_000008160699.xls",
+      "scoring_name": "00500602_000008160699.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 175,
+      "sha256_out": "0328126c06d5a2aaebdbfac51a0bd124315be15ff31a5f1703d3a39e1bb70efa"
+    },
+    {
+      "file_name": "00500602_000008462936.xls",
+      "scoring_name": "00500602_000008462936.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 147,
+      "sha256_out": "241ac5fdf91fecfacbe5500f20df6d609824b402943dc89b2afc8a6306b9f420"
+    },
+    {
+      "file_name": "00500602_000008965282.xls",
+      "scoring_name": "00500602_000008965282.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 240,
+      "sha256_out": "beefb412e52ae82bfee614c16d925dffd869cda5d5d82567c46772907c041bb8"
+    },
+    {
+      "file_name": "00500602_000010015593.xls",
+      "scoring_name": "00500602_000010015593.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 271,
+      "sha256_out": "ba105cf0da0f778de9485a77900ac992c57dda3e1044a5431d9d971923e60344"
+    },
+    {
+      "file_name": "00500602_000010079814.xls",
+      "scoring_name": "00500602_000010079814.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2296,
+      "sha256_out": "e0e4dbe89ae78b58f6db595ea9f2dfb1fbe1dccc566585879f97b1cc99daa85e"
+    },
+    {
+      "file_name": "00500603_000010873198.xlsx",
+      "scoring_name": "00500603_000010873198.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 108,
+      "sha256_out": "be7bc883bc066fbad305f0773165fa4b78d9d57072d50776c93e6c4f42188d12"
+    },
+    {
+      "file_name": "00500604_000001565454.xls",
+      "scoring_name": "00500604_000001565454.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2076,
+      "sha256_out": "c06a759dd78aa4478ae10aa92bddadd62ff2a944fd953e9617ce18f29f453dea"
+    },
+    {
+      "file_name": "00500604_000001565502.xls",
+      "scoring_name": "00500604_000001565502.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 484,
+      "sha256_out": "11635f9b98863709d8cb851959bbf2faa2e85112f85a39a8b51d433279021fb7"
+    },
+    {
+      "file_name": "00500604_000001565503.xls",
+      "scoring_name": "00500604_000001565503.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 483,
+      "sha256_out": "fe3af0115484a2b930d56f5d25c91c2026bc545bec0275d49316968f2cde2afb"
+    },
+    {
+      "file_name": "00500604_000001565517.xls",
+      "scoring_name": "00500604_000001565517.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 123,
+      "sha256_out": "cbab5ec7b2babd3b6419f49f1d9059b509b195adee565e0249107d70a84b7b38"
+    },
+    {
+      "file_name": "00500604_000001602330.xls",
+      "scoring_name": "00500604_000001602330.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 310,
+      "sha256_out": "623512916ad40a3b3588533ca6088559554b976d5697f88ede3d2d3f0e76f636"
+    },
+    {
+      "file_name": "00500604_000001602374.xls",
+      "scoring_name": "00500604_000001602374.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 148,
+      "sha256_out": "69da9ef1a3d1ee8d56b064f5d0585bd3601b5faaa3ecabdce7b5fa60813f19f5"
+    },
+    {
+      "file_name": "00500604_000004037233.xls",
+      "scoring_name": "00500604_000004037233.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 688,
+      "sha256_out": "3359079a51000014aff9e506311a9ab72d28e0d675875b9dda8a374aba2ebfbb"
+    },
+    {
+      "file_name": "00500604_000006867978.xls",
+      "scoring_name": "00500604_000006867978.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 317,
+      "sha256_out": "e1b9f4c183439aa7241ee52f8f9a46fc9d52f3b60229c20c32459ecaeeb9609c"
+    },
+    {
+      "file_name": "00500604_000010616637.xlsx",
+      "scoring_name": "00500604_000010616637.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 483,
+      "sha256_out": "277a1efe23c498571cf4a95a1ef7a1b0d8e5572599e80adc8fbd0d027ac8cc76"
+    },
+    {
+      "file_name": "00500605_000003480574.xls",
+      "scoring_name": "00500605_000003480574.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 375,
+      "sha256_out": "a09430e517c80c3403ce1508f566da0bf568e3d4a4cb41d655c673b350a33041"
+    },
+    {
+      "file_name": "00500605_000003480605.xls",
+      "scoring_name": "00500605_000003480605.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 375,
+      "sha256_out": "a33aa87b156d6cbf1efe3aee6574ab0cc54db2de7ddd329f1edfd34e2edc591b"
+    },
+    {
+      "file_name": "00500605_000007815169.xls",
+      "scoring_name": "00500605_000007815169.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 195,
+      "sha256_out": "f0fc7d7c222c915415b81d811c1b7c9a81820380debbc7a99edcd5c4f03bbe3a"
+    },
+    {
+      "file_name": "00500605_000008809585.xls",
+      "scoring_name": "00500605_000008809585.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 817,
+      "sha256_out": "7e22d3bb8a0715107460be93ba601d35bd217ea74d6582f6952c86ff2b17ffb5"
+    },
+    {
+      "file_name": "00500605_000008809636.xls",
+      "scoring_name": "00500605_000008809636.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 128,
+      "sha256_out": "97ff05995128face298c1cc5321c67ea7cd9de70dc93fef569c68e24add73b25"
+    },
+    {
+      "file_name": "00500605_000010595659.xlsx",
+      "scoring_name": "00500605_000010595659.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 84,
+      "sha256_out": "a01311926692007708bd63a735cb04d6a7c27337eda4366a287f6dc6f3b9ca6b"
+    },
+    {
+      "file_name": "00500606_000008846842.xlsx",
+      "scoring_name": "00500606_000008846842.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1554,
+      "sha256_out": "366797f130f30492fc669509866cd131db53b8ab1f2e70c07c4428802d9fd2b1"
+    },
+    {
+      "file_name": "00500606_000010762570.xlsx",
+      "scoring_name": "00500606_000010762570.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3693,
+      "sha256_out": "ef8ee31441a37413533088ff0459ae90510edac6b96638dfb23b4bde34673a44"
+    },
+    {
+      "file_name": "00500607_000008521259.xls",
+      "scoring_name": "00500607_000008521259.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1454,
+      "sha256_out": "9860e64fbe42a890a6420d975bd231c271398bb479f02e39871c5dea221d9216"
+    },
+    {
+      "file_name": "00500607_000008973322.xls",
+      "scoring_name": "00500607_000008973322.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 703,
+      "sha256_out": "4f8b7226184e97888e4fe4efb4607b12e6e18cd9c2ca542c1d9ca414aca7f6c0"
+    },
+    {
+      "file_name": "00500607_000010451210.xlsx",
+      "scoring_name": "00500607_000010451210.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1457,
+      "sha256_out": "9e538afaa44d7f6fb85e65602c123cd92f5018d5a1fca722ff617db1183126d9"
+    },
+    {
+      "file_name": "00500608_000004017786.xls",
+      "scoring_name": "00500608_000004017786.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 594,
+      "sha256_out": "35ff973519b647ec0fbdbd648053dd8510cfd8fa29c645f7ede4fb5882efa407"
+    },
+    {
+      "file_name": "00500608_000004017973.xls",
+      "scoring_name": "00500608_000004017973.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1094,
+      "sha256_out": "afb0988da06d1dfb6e0c6b3788578dfe758dd056a3915da7ddfe4b18fbfb5278"
+    },
+    {
+      "file_name": "00500609_000007772517.xls",
+      "scoring_name": "00500609_000007772517.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1482,
+      "sha256_out": "16fe0c1a3c7dcb91189a4aaf69286be6af9d2f04552e23fe09499d1f1a32d19f"
+    },
+    {
+      "file_name": "00501000_000010172403.xlsx",
+      "scoring_name": "00501000_000010172403.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 340,
+      "sha256_out": "9099a7c2d1c1b5dffe8f4b8fa78f8367eb83a3db44a6d8d416c98e8302ba1c25"
+    },
+    {
+      "file_name": "00501003_000003327379.xls",
+      "scoring_name": "00501003_000003327379.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 241,
+      "sha256_out": "a3ae1b38557984415a6d0072452ece344281bf9375f98e1eabb924f41b18e1e3"
+    },
+    {
+      "file_name": "00501005_000010404423.xls",
+      "scoring_name": "00501005_000010404423.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 140,
+      "sha256_out": "b57a4f77b31f7fa1768a9ec17c24686a06d1260ad274781275afb01053b4bb6d"
+    },
+    {
+      "file_name": "00550010_000008128409.xls",
+      "scoring_name": "00550010_000008128409.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 12,
+      "n_nonempty_cells": 16683,
+      "sha256_out": "db34b448656bd76c1192dcbc11dda2ec30b62e555cb2cea6790c9090713daff3"
+    },
+    {
+      "file_name": "00550020_000002415508.xls",
+      "scoring_name": "00550020_000002415508.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 13,
+      "n_nonempty_cells": 184055,
+      "sha256_out": "773a394b7adb50b754ce82a64549443e58cd6d84838caa8de46497a0c0b7f179"
+    },
+    {
+      "file_name": "00550020_000007638069.xlsx",
+      "scoring_name": "00550020_000007638069.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 11,
+      "n_nonempty_cells": 517992,
+      "sha256_out": "4beb705102a906573f8fe6a160a8cc7ed9de629d4ebe8949f14337d3755cd244"
+    },
+    {
+      "file_name": "00550020_000007686451.xlsx",
+      "scoring_name": "00550020_000007686451.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 27,
+      "n_nonempty_cells": 657841,
+      "sha256_out": "43b0bca4c077a19c70ce3f3cd70e19e8dd8a909be91bea60e381e596ddae630a"
+    },
+    {
+      "file_name": "00550030_000007622935.xls",
+      "scoring_name": "00550030_000007622935.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 26,
+      "n_nonempty_cells": 42647,
+      "sha256_out": "5a9fd3408d1c61c42043667fde42a7392db0bdc2c0598daaeecb7d03494d5055"
+    },
+    {
+      "file_name": "00550030_000007622967.xls",
+      "scoring_name": "00550030_000007622967.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 22,
+      "n_nonempty_cells": 22428,
+      "sha256_out": "6b375dbc7d263ca323defd730c54185cf683b2a65636de0f9268a4762c8bc02d"
+    },
+    {
+      "file_name": "00550030_000008268675.xls",
+      "scoring_name": "00550030_000008268675.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 29,
+      "n_nonempty_cells": 35132,
+      "sha256_out": "45acd8db46ecbf8504bdb76af93c09b19fcc545eea23a111c830ad5a787f521f"
+    },
+    {
+      "file_name": "00550035_000007399647.xls",
+      "scoring_name": "00550035_000007399647.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 16,
+      "n_nonempty_cells": 7384,
+      "sha256_out": "c0fafd55eb286ac38148b0c54ba17d0844ec8aff4fc3a14e0e8c01bcc004b409"
+    },
+    {
+      "file_name": "00550035_000007442794.xls",
+      "scoring_name": "00550035_000007442794.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 16,
+      "n_nonempty_cells": 7388,
+      "sha256_out": "2a39cc89752140ce6573a0f165a6009a89897b73a9582417d6d859439c9a1e8c"
+    },
+    {
+      "file_name": "00550050_000007266953.xls",
+      "scoring_name": "00550050_000007266953.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 632,
+      "sha256_out": "e119cca03dab66b4340c1149f4b29ee53b7f8076207e9b57ff5d86a1f15c9929"
+    },
+    {
+      "file_name": "00550050_000007267139.xls",
+      "scoring_name": "00550050_000007267139.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 8,
+      "n_nonempty_cells": 2546,
+      "sha256_out": "fec3cf648c58cb6d03ed55db022912136c98c13a074b635a6090012b289e4d60"
+    },
+    {
+      "file_name": "00550050_000007267278.xls",
+      "scoring_name": "00550050_000007267278.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 8,
+      "n_nonempty_cells": 12058,
+      "sha256_out": "8cc60a32bad1828574596047261f2c2b613bb6bdd94009be573c1f4f3210567a"
+    },
+    {
+      "file_name": "00550050_000007267282.xls",
+      "scoring_name": "00550050_000007267282.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 8,
+      "n_nonempty_cells": 5602,
+      "sha256_out": "3ef9fb0c7a599cb837cec9341b1ed3010d252b5e7d24714de7debae6ca6388f4"
+    },
+    {
+      "file_name": "00550050_000007372706.xls",
+      "scoring_name": "00550050_000007372706.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 846,
+      "sha256_out": "6420753464450079300f5a757225c8e9168ab2c2844d55e70a3d4fc60d029db7"
+    },
+    {
+      "file_name": "00550050_000010583603.xls",
+      "scoring_name": "00550050_000010583603.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 34,
+      "n_nonempty_cells": 6044,
+      "sha256_out": "fd3dbe4069fa9d2a7a7d09b149ee2a6a6e9da961188ce70fb15623d6ae790bf8"
+    },
+    {
+      "file_name": "00550100_000007700341.xls",
+      "scoring_name": "00550100_000007700341.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3566,
+      "sha256_out": "10bce373cecf8639bb58b7d96fe2c06689a9aa3248b17cf38fa4c1228366f395"
+    },
+    {
+      "file_name": "00550100_000010125978.xls",
+      "scoring_name": "00550100_000010125978.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3512,
+      "sha256_out": "09cd9a140d2941f8c29832a8ae834b3ab112a23f9762570bb77aac2db9300539"
+    },
+    {
+      "file_name": "00550100_000010126054.xls",
+      "scoring_name": "00550100_000010126054.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 7454,
+      "sha256_out": "4a903b302645d632fefb55046aa5cfdf6b287e0b8f0699a0be69134f5b45f1fb"
+    },
+    {
+      "file_name": "00550100_000010889065.xls",
+      "scoring_name": "00550100_000010889065.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 19314,
+      "sha256_out": "b385d953e6248ef538c576044325d87aaf26f1dd71bb83f32596db221dbff26a"
+    },
+    {
+      "file_name": "00550100_000010890553.xls",
+      "scoring_name": "00550100_000010890553.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 16622,
+      "sha256_out": "0da74964dbe8aa7a02ea110ff0d7564b012aac42bdb00e48fd73d01b4017480a"
+    },
+    {
+      "file_name": "00550110_000006633690.xls",
+      "scoring_name": "00550110_000006633690.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3416,
+      "sha256_out": "9b78f03ce0ae938adcecdd9b667602597ec277949e67e6ce4e16d8f774ec2455"
+    },
+    {
+      "file_name": "00550110_000007211640.xls",
+      "scoring_name": "00550110_000007211640.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8247,
+      "sha256_out": "e7ac916c2017a3f8b1c581437f768e062452a871bc67562e0c997e88c41f820a"
+    },
+    {
+      "file_name": "00550110_000008864176.xlsx",
+      "scoring_name": "00550110_000008864176.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 24,
+      "n_nonempty_cells": 14962,
+      "sha256_out": "840ec5ce30464d73dee1115e1b84d2365e7a412a7998723067e094efa658804b"
+    },
+    {
+      "file_name": "00550110_000008956329.xls",
+      "scoring_name": "00550110_000008956329.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 2,
+      "n_nonempty_cells": 1858,
+      "sha256_out": "e1b804590e2e89752ac6d8b51059467806d3fbb1289586d242dbe47881ffff52"
+    },
+    {
+      "file_name": "00550120_000002650943.xls",
+      "scoring_name": "00550120_000002650943.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3697,
+      "sha256_out": "42398af16f8ee9f6ca01f82fcd9dc700b3141fc59a5b68c301da38d6aca70d46"
+    },
+    {
+      "file_name": "00550130_000002650689.xls",
+      "scoring_name": "00550130_000002650689.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 4,
+      "n_nonempty_cells": 28308,
+      "sha256_out": "897644068ac3cd48a6ad4bdb024a0d069b1dd40dfb7cd6e26dc1cdea68456265"
+    },
+    {
+      "file_name": "00550130_000008245998.xls",
+      "scoring_name": "00550130_000008245998.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 33,
+      "n_nonempty_cells": 44029,
+      "sha256_out": "368c7cf237c5552c4dca5ff45144a21c192fb377000ef65693859271c719b598"
+    },
+    {
+      "file_name": "00550130_000010122417.xls",
+      "scoring_name": "00550130_000010122417.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 16,
+      "n_nonempty_cells": 19899,
+      "sha256_out": "f657677283dbaea1e59c0610639ba1a1bf5368fb24e0927772f007cb17d8ea24"
+    },
+    {
+      "file_name": "00550200_000002215947.xls",
+      "scoring_name": "00550200_000002215947.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3105,
+      "sha256_out": "634ec27cd0407d5d6cce147df961a36340f4a9fee46477f3cd3ee35e21fc97d6"
+    },
+    {
+      "file_name": "00550200_000002252015.xls",
+      "scoring_name": "00550200_000002252015.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 14,
+      "n_nonempty_cells": 4056,
+      "sha256_out": "bb84e27c6fdaab4c186e00df7f317bdf41fc77608f290adc8bb0f68968049ba6"
+    },
+    {
+      "file_name": "00550200_000003634507.xls",
+      "scoring_name": "00550200_000003634507.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 772,
+      "sha256_out": "a640d1d805fca840a9568ba3d3bee2963ea97a71dcc027c84ec24983c9865ad6"
+    },
+    {
+      "file_name": "00550200_000003635505.xls",
+      "scoring_name": "00550200_000003635505.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 259,
+      "sha256_out": "5a9cb7b08eb46bb0fe0b810786690e6c8cd8d825fdf120cf08bc3085e876d791"
+    },
+    {
+      "file_name": "00550200_000003635526.xls",
+      "scoring_name": "00550200_000003635526.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 375,
+      "sha256_out": "feabe772197305a4ae2f1f58d44b5a073aba9f9f034377f6b046a98c642e5041"
+    },
+    {
+      "file_name": "00550200_000003682864.xls",
+      "scoring_name": "00550200_000003682864.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 11,
+      "n_nonempty_cells": 1473,
+      "sha256_out": "6d4959e41f3d932db4a589fffb8a08a7188a5b1771b568051a554ab1badbe136"
+    },
+    {
+      "file_name": "00550200_000003960864.xls",
+      "scoring_name": "00550200_000003960864.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1482,
+      "sha256_out": "c7a507f17729b24a36a329bac2ff445f30597efeef5700831701dfb4e657a530"
+    },
+    {
+      "file_name": "00550200_000005018246.xls",
+      "scoring_name": "00550200_000005018246.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 378,
+      "sha256_out": "ee7b894a19ad7a251e4f1e695ab02b429ff5636f5450fb2587c3a65001414371"
+    },
+    {
+      "file_name": "00550200_000005974246.xls",
+      "scoring_name": "00550200_000005974246.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3221,
+      "sha256_out": "1cb33c69655e0a5f6347f81b8c3ecf08aec27e0d9bb4a2902f2e1bf4f6917af4"
+    },
+    {
+      "file_name": "00550200_000005974270.xls",
+      "scoring_name": "00550200_000005974270.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 335,
+      "sha256_out": "8e8d722648d30c20685ba886212c32eced00bdcda132d7a5031c9e4229d75071"
+    },
+    {
+      "file_name": "00550200_000006065556.xls",
+      "scoring_name": "00550200_000006065556.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 38,
+      "sha256_out": "bcab0cf5428a52606c1473d813eff9fb811fc5b792d9ef4830585e4c131b3b1a"
+    },
+    {
+      "file_name": "00550200_000006499937.xls",
+      "scoring_name": "00550200_000006499937.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 11,
+      "n_nonempty_cells": 20761,
+      "sha256_out": "735552bcf6100dd6ee58ec806b995a78ca01f4f80d7f34d07eb311e5521fcd12"
+    },
+    {
+      "file_name": "00550200_000008936076.xls",
+      "scoring_name": "00550200_000008936076.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 27,
+      "n_nonempty_cells": 58077,
+      "sha256_out": "05fff37a7bbaa435f93d92675f6758ed4ff6578905ba44643b58096b53d4e376"
+    },
+    {
+      "file_name": "00550210_000002542242.xls",
+      "scoring_name": "00550210_000002542242.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 22,
+      "n_nonempty_cells": 14648,
+      "sha256_out": "5b59e506eecf7053516bd425ce0ef3c6b141641323a7caee184608ce59af7c7c"
+    },
+    {
+      "file_name": "00550210_000006425063.xls",
+      "scoring_name": "00550210_000006425063.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 22,
+      "n_nonempty_cells": 16804,
+      "sha256_out": "a01ed0cf3e3660fde7c6983734720bcea5ce5bae34d5523907193b1b1f5683b9"
+    },
+    {
+      "file_name": "00550300_000010148708.xlsx",
+      "scoring_name": "00550300_000010148708.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 34,
+      "n_nonempty_cells": 20676,
+      "sha256_out": "152b951a9f2715b53f4a487a474db0a3b263d01d68fa616efdd6ddd641477344"
+    },
+    {
+      "file_name": "00550300_000010268866.xlsx",
+      "scoring_name": "00550300_000010268866.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 34,
+      "n_nonempty_cells": 20676,
+      "sha256_out": "1f3231af262d955bd95e60881bf330356d6fda5b38e6436e047849752f034b80"
+    },
+    {
+      "file_name": "00550300_000010628339.xlsx",
+      "scoring_name": "00550300_000010628339.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 36,
+      "n_nonempty_cells": 26590,
+      "sha256_out": "3c2004aa2cdd0e399800a425c8ee11bac1f69d29a8d9f0ef53522fd019cc2b80"
+    },
+    {
+      "file_name": "00550350_000009008391.xlsx",
+      "scoring_name": "00550350_000009008391.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 6487,
+      "sha256_out": "6ff3d84a570e1946a1639af61c81dfb26d04dacc79ca570f8c173b1bd1a43608"
+    },
+    {
+      "file_name": "00550425_000010760933.xlsx",
+      "scoring_name": "00550425_000010760933.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 16381,
+      "sha256_out": "26187a47ccd86187f0a6c65305782cd06ee5261c2347d54877e8cf475477d3a3"
+    },
+    {
+      "file_name": "00550460_000006436016.xlsx",
+      "scoring_name": "00550460_000006436016.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 456,
+      "sha256_out": "fd55efc310845179fef290559ec9ab3055cc1ff5c135031cda0ecb7affbd0d9a"
+    },
+    {
+      "file_name": "00550500_000007586706.xlsx",
+      "scoring_name": "00550500_000007586706.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 6372,
+      "sha256_out": "11c2fc1133590660952189c39b4af78709997bbf5ce77524622b0606f6f67d2e"
+    },
+    {
+      "file_name": "00550560_000008584375.xls",
+      "scoring_name": "00550560_000008584375.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 658,
+      "sha256_out": "52934e4d067956f2e9cd75777ac4c04941e958ed720f257052e9ca41a83fe2ce"
+    },
+    {
+      "file_name": "00550575_000008101535.xlsx",
+      "scoring_name": "00550575_000008101535.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 82,
+      "sha256_out": "72421b1de8f6236406e32a2efab95a11340b37aa9f138c9021ad94a08eafda35"
+    },
+    {
+      "file_name": "00550575_000008101557.xlsx",
+      "scoring_name": "00550575_000008101557.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 14,
+      "sha256_out": "556cb11ad82037a2e2d3d2ba091796396d2913c9446d9069b92ef0df624f933f"
+    },
+    {
+      "file_name": "00550575_000008101566.xlsx",
+      "scoring_name": "00550575_000008101566.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 4,
+      "n_nonempty_cells": 509,
+      "sha256_out": "0964d94e9592ea4609f3c058bb02afaa60d7bae48131eb42e8e49ee2601e35bc"
+    },
+    {
+      "file_name": "00550575_000008101617.xlsx",
+      "scoring_name": "00550575_000008101617.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 30,
+      "sha256_out": "408a5d7e4123f7e148530cefb22df7514ebe3f864e83c61cd395b45230f675bc"
+    },
+    {
+      "file_name": "00550580_000007859099.xlsx",
+      "scoring_name": "00550580_000007859099.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 64,
+      "sha256_out": "68b11d39519b86b66c641da383579ad6502c53c5a3b4adc747b7a08aa8a1f583"
+    },
+    {
+      "file_name": "00550600_000008443383.xls",
+      "scoring_name": "00550600_000008443383.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 24,
+      "n_nonempty_cells": 22570,
+      "sha256_out": "adfbba2983d1eb7f5846b571198883efb0bd504e4b62583986e3c647c7e0f122"
+    },
+    {
+      "file_name": "00550600_000008443389.xls",
+      "scoring_name": "00550600_000008443389.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 24,
+      "n_nonempty_cells": 22474,
+      "sha256_out": "fb37ef8360771c0b598d731d253fbd224030921887e994744e9994ff29be0bf7"
+    },
+    {
+      "file_name": "00550600_000008588809.xls",
+      "scoring_name": "00550600_000008588809.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 24,
+      "n_nonempty_cells": 22595,
+      "sha256_out": "705d23ad32ac837e3b86d2591f8fc78ccf9a7056c0cca2d8372615a40c01e307"
+    },
+    {
+      "file_name": "00550605_000009164742.xlsx",
+      "scoring_name": "00550605_000009164742.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 2396,
+      "sha256_out": "cde29e2977dd2103f20b810a822717f410bbf36ba178ab9ffea56e2b4d50c723"
+    },
+    {
+      "file_name": "00550605_000010816825.xlsx",
+      "scoring_name": "00550605_000010816825.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 2396,
+      "sha256_out": "40b84b554c62a1744c7bd0bea56e67dd202e2a517f517163605edfcd8c025755"
+    },
+    {
+      "file_name": "00550605_000010816826.xlsx",
+      "scoring_name": "00550605_000010816826.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 2396,
+      "sha256_out": "9cc71dca95194c82c460d895f36a7f91323c3d1687b1610c431ad099b027405a"
+    },
+    {
+      "file_name": "00550610_000008443127.xls",
+      "scoring_name": "00550610_000008443127.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 39,
+      "n_nonempty_cells": 25133,
+      "sha256_out": "7ae9f400573560ad493def9dd1583652ee181a937bd5db92bd1fc0773e346b9a"
+    },
+    {
+      "file_name": "00550610_000008443157.xls",
+      "scoring_name": "00550610_000008443157.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 41,
+      "n_nonempty_cells": 25124,
+      "sha256_out": "e08bcc52d754e49c7bb64480e299e7cd9f85e3492130a11589952d2d58628054"
+    },
+    {
+      "file_name": "00550650_000002682113.xls",
+      "scoring_name": "00550650_000002682113.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 357,
+      "sha256_out": "f9461d0978f9aa0fdf80cb5c2ead1f2533fc4d3a9b49a5cf8c902b24df064e59"
+    },
+    {
+      "file_name": "00550660_000002764480.xls",
+      "scoring_name": "00550660_000002764480.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 25,
+      "n_nonempty_cells": 60445,
+      "sha256_out": "9ff39884e7091c4ccb14f19463c8fceb627bf6d015485deb1b7f583ac49d6d22"
+    },
+    {
+      "file_name": "00550700_000008933849.xlsx",
+      "scoring_name": "00550700_000008933849.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8332,
+      "sha256_out": "e7bdd92dbdbeb18ae49896c181185190745587ead990a7c1d18f4821f27c6b48"
+    },
+    {
+      "file_name": "00550700_000009010248.xlsx",
+      "scoring_name": "00550700_000009010248.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8278,
+      "sha256_out": "d52a050072b39fffbf7012687d8d1041451058d9b9c953e691abfabdb076a17f"
+    },
+    {
+      "file_name": "00550700_000009010252.xlsx",
+      "scoring_name": "00550700_000009010252.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8324,
+      "sha256_out": "0c68716feed9dd70ff8347e3a22aa4ca05c8d0ab804804668618dc4b2b7e5d0f"
+    },
+    {
+      "file_name": "00550700_000009010254.xlsx",
+      "scoring_name": "00550700_000009010254.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8332,
+      "sha256_out": "ceeadb4988ea7d4e54a9f7e295618a6a924203a64fd00d777eac323262f81920"
+    },
+    {
+      "file_name": "00550700_000009023814.xlsx",
+      "scoring_name": "00550700_000009023814.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8332,
+      "sha256_out": "a01bdf9600b3942faf5b5a50b2c887cff494b71a71708a555978dadd14c27e90"
+    },
+    {
+      "file_name": "00550700_000009235276.xlsx",
+      "scoring_name": "00550700_000009235276.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8334,
+      "sha256_out": "bfbea5d27ec81209d2bf62d2aa0fb2ca7d606b9cc4576153afee2a2dda2db2f8"
+    },
+    {
+      "file_name": "00550700_000010000620.xlsx",
+      "scoring_name": "00550700_000010000620.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8333,
+      "sha256_out": "56df8fe31a23dc17ba03e22ab8da8c23b0e89643bdb6edbab5329f183cf64798"
+    },
+    {
+      "file_name": "00550700_000010033984.xlsx",
+      "scoring_name": "00550700_000010033984.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8332,
+      "sha256_out": "2e6b5ac87324af61a89f52a911ebcdcc5b4a9ab218d0ff18ebc6e99c39eb9202"
+    },
+    {
+      "file_name": "00550700_000010143022.xlsx",
+      "scoring_name": "00550700_000010143022.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "e1d08a70be8c467beb67a2add16a9f1fe32a3b88dbe0b1489721cf5698886f50"
+    },
+    {
+      "file_name": "00550700_000010147360.xlsx",
+      "scoring_name": "00550700_000010147360.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "b023bf666dcfe1733ddb4d03cbfa28a8ce2fffa795e51d24e787c0e62df9b28b"
+    },
+    {
+      "file_name": "00550700_000010150340.xlsx",
+      "scoring_name": "00550700_000010150340.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "9f8849b75154e95a31d89f2b6f10943a7efeaaf66c500fc48eea26e983026b60"
+    },
+    {
+      "file_name": "00550700_000010208700.xlsx",
+      "scoring_name": "00550700_000010208700.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "5c4c99e98511fcb600249663210e5f23c63df71d4a9c5892544cb9ba14127e4c"
+    },
+    {
+      "file_name": "00550700_000010208702.xlsx",
+      "scoring_name": "00550700_000010208702.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "a59aa653dd008de3947c4c2828bad4776a3466a374b56f2f1328c599a09ceec0"
+    },
+    {
+      "file_name": "00550700_000010227340.xlsx",
+      "scoring_name": "00550700_000010227340.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "c781dd9e101639998cf472757f747cb2181d4124a2366466ce36ed455567d417"
+    },
+    {
+      "file_name": "00550700_000010281134.xlsx",
+      "scoring_name": "00550700_000010281134.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "5246f401754636366690ca432bc39d80967bb02aec20c044d3613e064728a4bf"
+    },
+    {
+      "file_name": "00550700_000010341746.xlsx",
+      "scoring_name": "00550700_000010341746.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8876,
+      "sha256_out": "9201bcaa6d22461d9cafc2a200736000800014d22f8a25d989f73ce306477dc0"
+    },
+    {
+      "file_name": "00550700_000010387723.xlsx",
+      "scoring_name": "00550700_000010387723.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "81165de8ae63d98e2db9839d5fb86bb3d67474443ab3be429fbf3a83d08d0917"
+    },
+    {
+      "file_name": "00550700_000010596791.xlsx",
+      "scoring_name": "00550700_000010596791.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "fa9dd6d357dc126cd2fe9fa91cc33acd971b9f0524e9643bf0cefb2ce8226995"
+    },
+    {
+      "file_name": "00550700_000010596930.xlsx",
+      "scoring_name": "00550700_000010596930.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "55fd2117e9695d516fcb241ca819140aceb9e4a88e8e3b2d35229b7bebddd940"
+    },
+    {
+      "file_name": "00550700_000010710881.xlsx",
+      "scoring_name": "00550700_000010710881.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "88a9b640700db39b5d54f9f5bae832ee753a6f2ecb682f98e74463f85f05c60f"
+    },
+    {
+      "file_name": "00550700_000010744594.xlsx",
+      "scoring_name": "00550700_000010744594.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "6da17a045dae5490497c9e0281b8b1bd762a565a67e01abbd9b655a007494b41"
+    },
+    {
+      "file_name": "00550700_000010785701.xlsx",
+      "scoring_name": "00550700_000010785701.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "92de09edca4cb97bd873b142ebb1c88ff7821dd393682871cf5003dce0149d6a"
+    },
+    {
+      "file_name": "00550700_000010819289.xlsx",
+      "scoring_name": "00550700_000010819289.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "b5fab0707d2ddf6ed8226beed28db91724e7b2c431960dc379b8f7e8a5ff4383"
+    },
+    {
+      "file_name": "00550700_000010856448.xlsx",
+      "scoring_name": "00550700_000010856448.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "92da688074cfc089cff4f2325ddc65e51473605cc35c968bb3a6b059b65eefbe"
+    },
+    {
+      "file_name": "00550700_000010876335.xlsx",
+      "scoring_name": "00550700_000010876335.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 27,
+      "n_nonempty_cells": 8354,
+      "sha256_out": "cb1a63af919129a40df981dc8a2f9ca9ceaec66fdc7021115d9fa14d49bc346a"
+    },
+    {
+      "file_name": "00551006_000010780147.xlsx",
+      "scoring_name": "00551006_000010780147.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 34,
+      "n_nonempty_cells": 112712,
+      "sha256_out": "9ad1292cfa0674bb6b040f6a63af9c2edfea0d482ffeadd0f8eacebbeb9a79cd"
+    },
+    {
+      "file_name": "00551010_000010850830.xlsx",
+      "scoring_name": "00551010_000010850830.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 128811,
+      "sha256_out": "10fbbf226672785498e0620d384f510914ff7fb5d7cb0d9e9a3e312d5e60a0cc"
+    },
+    {
+      "file_name": "00551010_000010850842.xlsx",
+      "scoring_name": "00551010_000010850842.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 128811,
+      "sha256_out": "3e12f86d6526412f4617f3cb5b35b8d0c16a712aed8cb9abf05b28247ffa508f"
+    },
+    {
+      "file_name": "00551190_000009036328.xlsx",
+      "scoring_name": "00551190_000009036328.xlsx",
+      "status": "ok",
+      "note": "resaved",
+      "resave_reason": "ファイル '00551190_000009036328.xlsx' の拡張子は '.xlsx' ですが、実際のファイル内容は 'xlsb' として検出されました。拡張子が偽装されている可能性があります。",
+      "n_sheets": 41,
+      "n_nonempty_cells": 49566,
+      "sha256_out": "a466a380bd91e0efb6ebe4111c29182c12471267198a6ba43d6a83ee4d9e6fe1"
+    },
+    {
+      "file_name": "00551190_000010089006.xlsx",
+      "scoring_name": "00551190_000010089006.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 42,
+      "n_nonempty_cells": 46389,
+      "sha256_out": "c3508c524ba72901b0f16226ef471256f8e5942f94e30273ab6956b8fc5c920b"
+    },
+    {
+      "file_name": "00553010_000010892270.xlsx",
+      "scoring_name": "00553010_000010892270.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 3740,
+      "sha256_out": "8d32aafaccc4284646049084621ae5f597796753072aba5e95e83864bde03333"
+    },
+    {
+      "file_name": "00600010_000010763326.xlsx",
+      "scoring_name": "00600010_000010763326.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 20592,
+      "sha256_out": "82c79f3911a9c12c5fbc68a3556028ce1b2f987beee85dc6c4735e73aeed03cd"
+    },
+    {
+      "file_name": "00600020_000007976216.xlsx",
+      "scoring_name": "00600020_000007976216.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 2282,
+      "sha256_out": "609fbedaad591b0b740727c8862bab0eec88fa8e513f64be93b979a5cac7444d"
+    },
+    {
+      "file_name": "00600020_000010848871.xlsx",
+      "scoring_name": "00600020_000010848871.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 1766694,
+      "sha256_out": "0213ea35727215574b39954a1a5e13e5a77a727319e15d576aa7283da70cf609"
+    },
+    {
+      "file_name": "00600080_000010063083.xlsx",
+      "scoring_name": "00600080_000010063083.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 12,
+      "n_nonempty_cells": 12925,
+      "sha256_out": "a2a00b61375f64143911f1b3503c282e07cdeb2403df443fe0ace9ca436687b7"
+    },
+    {
+      "file_name": "00600120_000010790544.xls",
+      "scoring_name": "00600120_000010790544.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 17536,
+      "sha256_out": "bb09f6de753c49b91aeaa27df9331159d6757f782fcf947aee5ae8ff9f825240"
+    },
+    {
+      "file_name": "00600120_000010861661.xls",
+      "scoring_name": "00600120_000010861661.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 3,
+      "n_nonempty_cells": 210450,
+      "sha256_out": "4c42e1a4abe8b448f8e877c790f9931b939810eb8a1c8a255fa51b8e8fffacfc"
+    },
+    {
+      "file_name": "00600120_000010891655.xls",
+      "scoring_name": "00600120_000010891655.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 11,
+      "n_nonempty_cells": 45154,
+      "sha256_out": "29f009ea54aa2ff713828348d6bf637be156fccaf61d3014f325c55d5134fd7d"
+    },
+    {
+      "file_name": "00600120_000010891721.xls",
+      "scoring_name": "00600120_000010891721.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 6,
+      "n_nonempty_cells": 459852,
+      "sha256_out": "d1d815fa3003e455f675d76341f9e77754d7f5415c22f42d088e40206e832fd6"
+    },
+    {
+      "file_name": "00600130_000004326721.xls",
+      "scoring_name": "00600130_000004326721.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 92240,
+      "sha256_out": "b10fd19383c07cb3ab7ba85307bd52babfdc59f8c18953eff7ff940e5b1a7389"
+    },
+    {
+      "file_name": "00600130_000004326733.xls",
+      "scoring_name": "00600130_000004326733.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 92160,
+      "sha256_out": "b98431df4888decf496e50e4232c162fe29288b860a039c20f4d94d43d11bf3a"
+    },
+    {
+      "file_name": "00600130_000006403430.xls",
+      "scoring_name": "00600130_000006403430.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 20055,
+      "sha256_out": "1b154515e3ff2563997065cb467b1c07651a57eb2a211764d33dbef8fa0b185d"
+    },
+    {
+      "file_name": "00600130_000010894061.xlsx",
+      "scoring_name": "00600130_000010894061.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 958,
+      "sha256_out": "71682552154149c0f57c733a46c544172473d7aaae409d2a4a4669047d301e99"
+    },
+    {
+      "file_name": "00600130_000010894066.xlsx",
+      "scoring_name": "00600130_000010894066.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 23922,
+      "sha256_out": "7d773d79273788f954222f7944b44541ce6222623f6ee27a2e7dad7c4f0228b6"
+    },
+    {
+      "file_name": "00600190_000008157203.xlsx",
+      "scoring_name": "00600190_000008157203.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1703,
+      "sha256_out": "b52d010e4d8908543173a1a63ebc88afff8fe27f0f4a75a227e31f6990d1b93c"
+    },
+    {
+      "file_name": "00600260_000010377114.xlsx",
+      "scoring_name": "00600260_000010377114.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 4,
+      "n_nonempty_cells": 14291,
+      "sha256_out": "0cb3103899e42ffcdc711a1e39f90f437196c217ad02b41b4e434f591ac2d104"
+    },
+    {
+      "file_name": "00600280_000010771722.xlsx",
+      "scoring_name": "00600280_000010771722.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 5,
+      "n_nonempty_cells": 15459,
+      "sha256_out": "496de3a78df4baf3a0160964855a27c3083add216bb64de8be348501f76e5e9d"
+    },
+    {
+      "file_name": "00600280_000010771776.xlsx",
+      "scoring_name": "00600280_000010771776.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 2,
+      "n_nonempty_cells": 6354,
+      "sha256_out": "f6dcd3e94f7982673d98ac57b0fc9b0c2ff892781610390a07e359d4907fff2b"
+    },
+    {
+      "file_name": "00600300_000010902058.xlsx",
+      "scoring_name": "00600300_000010902058.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 359,
+      "sha256_out": "f2a54d4f7c1177e74d867a2463d8a447b8f0b28df1007500d5cfe84c318815e5"
+    },
+    {
+      "file_name": "00600310_000010683401.xlsx",
+      "scoring_name": "00600310_000010683401.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 264,
+      "sha256_out": "ec69886e1cb93795f4b85c4f4c43762a31ee1900488b95d90f910e301ac52264"
+    },
+    {
+      "file_name": "00600330_000008675968.xlsx",
+      "scoring_name": "00600330_000008675968.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 805,
+      "sha256_out": "69ddebe499bb55f6f362650c0ec15bfb62a4217ab08812db36beaa8cb606bd15"
+    },
+    {
+      "file_name": "00600330_000008681374.xlsx",
+      "scoring_name": "00600330_000008681374.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 723,
+      "sha256_out": "ca7d31f3b4da293598b4c151661e50e489225f1ce24f323f4e6cbf41631e811f"
+    },
+    {
+      "file_name": "00600330_000010881825.xlsx",
+      "scoring_name": "00600330_000010881825.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 220,
+      "sha256_out": "5025082512140520b2b06d4739fb70e2779ff47f25c1dc9783ef5d58170bc31b"
+    },
+    {
+      "file_name": "00600330_000010881831.xlsx",
+      "scoring_name": "00600330_000010881831.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 853,
+      "sha256_out": "cdb6329268e47a7ce54ad489e7d332f579e295d2d3c8346a302a2000fb44a594"
+    },
+    {
+      "file_name": "00600330_000010881832.xlsx",
+      "scoring_name": "00600330_000010881832.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 492,
+      "sha256_out": "ab904c897c43100eaa9b991006a12534479f0285d8d6ecc45d9cf57fabc7b2d0"
+    },
+    {
+      "file_name": "00600340_000010892518.xls",
+      "scoring_name": "00600340_000010892518.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 451,
+      "sha256_out": "10c716d98193aaf38f1e0df5c2f6651903a1d6406a92cdea876602443fd96fb2"
+    },
+    {
+      "file_name": "00600340_000010892519.xls",
+      "scoring_name": "00600340_000010892519.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 614,
+      "sha256_out": "b649261bb39091d62ecc1c1a5314b746b3b57dc2139be2ed6d42b90bd778abe4"
+    },
+    {
+      "file_name": "00600350_000008982507.xlsx",
+      "scoring_name": "00600350_000008982507.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 10,
+      "sha256_out": "8553047a1d8915814c2b8549d6452acb00d33e94435048958384a1de2eb9836f"
+    },
+    {
+      "file_name": "00600350_000010726993.xls",
+      "scoring_name": "00600350_000010726993.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 2,
+      "n_nonempty_cells": 197,
+      "sha256_out": "c9e19c2587c0ad8b81a77dd8fff5f240b43e403b620554c8388ff42219bbf3ac"
+    },
+    {
+      "file_name": "00600460_000007235804.xls",
+      "scoring_name": "00600460_000007235804.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 130,
+      "n_nonempty_cells": 468893,
+      "sha256_out": "7872a476ef19eb7894b22c2056abb13b5f4bb3684679d1c2372b4e3a989e4ead"
+    },
+    {
+      "file_name": "00600460_000007242083.xls",
+      "scoring_name": "00600460_000007242083.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 15,
+      "n_nonempty_cells": 48660,
+      "sha256_out": "793f7dde0ca04c8195a303543e69c0eac7ec3195485b8fae4ef5c471b13ebeec"
+    },
+    {
+      "file_name": "00600465_000010375772.xls",
+      "scoring_name": "00600465_000010375772.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 45769,
+      "sha256_out": "5dbd8d60b7ecd8ab7044c4dea62e414f4930fa9ee4048f36aedcce432e6b8a88"
+    },
+    {
+      "file_name": "00600465_000010375776.xlsx",
+      "scoring_name": "00600465_000010375776.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 5,
+      "n_nonempty_cells": 226759,
+      "sha256_out": "b4da08f32084bf09534631e188d5b9e81e93609e7bc6329f2c8930b51cd63e70"
+    },
+    {
+      "file_name": "00600466_000010376544.xlsx",
+      "scoring_name": "00600466_000010376544.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 3,
+      "n_nonempty_cells": 1208481,
+      "sha256_out": "7a9a011bfbe16ca84e4d3b233b9f42b71fffbbeb41dcac0a86cbe6700a3c980d"
+    },
+    {
+      "file_name": "00600470_000003547884.xls",
+      "scoring_name": "00600470_000003547884.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2728,
+      "sha256_out": "a425c736cc096f1a045c061ef05d4ff023e52b1d40c2bf9586ac529ce9e5d248"
+    },
+    {
+      "file_name": "00600470_000004033120.xls",
+      "scoring_name": "00600470_000004033120.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2907,
+      "sha256_out": "b2260ae455d489fb14113ffefdd02df0328d6ddbc92ea8268be57024c0305f6a"
+    },
+    {
+      "file_name": "00600470_000004033176.xls",
+      "scoring_name": "00600470_000004033176.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 850,
+      "sha256_out": "f94be9f194902f503a30e50e35e6c2198f7ca09a65d7d8f5d65f9e612086d9a4"
+    },
+    {
+      "file_name": "00600470_000005376257.xls",
+      "scoring_name": "00600470_000005376257.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 236,
+      "sha256_out": "3bdb3aee62be345a154b177bca073dee2f0a25f96170f88646a35f3b9abee1c1"
+    },
+    {
+      "file_name": "00600470_000005376290.xls",
+      "scoring_name": "00600470_000005376290.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 498,
+      "sha256_out": "7d52c195d7528620e66d70c5ca215d8a7b8739252c48dd536491f81827f44891"
+    },
+    {
+      "file_name": "00600470_000005376343.xls",
+      "scoring_name": "00600470_000005376343.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 501,
+      "sha256_out": "3a02b711cb81398cfade93e272ae247206b3003f162e28d0ba448bd2114cf3e4"
+    },
+    {
+      "file_name": "00600470_000005376373.xls",
+      "scoring_name": "00600470_000005376373.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 237,
+      "sha256_out": "a61729d39b71e9499ccfa00e56b9a3bf0a5b3aeeec5ce22eadd98aa0c3cd0ff1"
+    },
+    {
+      "file_name": "00600470_000005376432.xls",
+      "scoring_name": "00600470_000005376432.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 366,
+      "sha256_out": "441a34addc21753c53b4024caf690bbff5678b6535e9162d48c92d2aa93e8816"
+    },
+    {
+      "file_name": "00600470_000008709996.xlsx",
+      "scoring_name": "00600470_000008709996.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1161,
+      "sha256_out": "036853051973720e851cc1252bf9cebcc49617c340d6fb914c141b2db9cc36a5"
+    },
+    {
+      "file_name": "00600470_000008710011.xlsx",
+      "scoring_name": "00600470_000008710011.xlsx",
+      "status": "ok",
+      "note": "",
+      "n_sheets": 1,
+      "n_nonempty_cells": 575,
+      "sha256_out": "42f37cde25dbbc1cba95f3a091b96f1b6230d634b6254e7c97c973efbce2bacc"
+    },
+    {
+      "file_name": "00600480_000005308118.xls",
+      "scoring_name": "00600480_000005308118.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 468,
+      "sha256_out": "a312c9ee03c76d71f3cda8463e5e39c4d06b0ea51abd69ed3951f17e96f2841b"
+    },
+    {
+      "file_name": "00600480_000005308154.xls",
+      "scoring_name": "00600480_000005308154.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 392,
+      "sha256_out": "b5a4afb19cc0ebb6f94c6fffca66cd027dd0bc009443e38e2d7dc652265f009c"
+    },
+    {
+      "file_name": "00600480_000005308476.xls",
+      "scoring_name": "00600480_000005308476.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 392,
+      "sha256_out": "8a7c65d3691925c4ae216dab156072eb38ae8b58668251252d4c035cb59a4903"
+    },
+    {
+      "file_name": "00600480_000005308576.xls",
+      "scoring_name": "00600480_000005308576.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 515,
+      "sha256_out": "91b3aff7e0cf22b4d94e5fe5505931fa9e71ea5fe45b389ea90461fb2cad46e2"
+    },
+    {
+      "file_name": "00600480_000005308718.xls",
+      "scoring_name": "00600480_000005308718.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 559,
+      "sha256_out": "7ad83d30c1620c27fefbecce9acd2c4b4a2a841190fb909ee844457b48d444a9"
+    },
+    {
+      "file_name": "00600490_000007582660.xls",
+      "scoring_name": "00600490_000007582660.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 462,
+      "sha256_out": "ce50823ff28d38905a7ceaee98dc5bd7129be79314133a84e12ceb871d7c4703"
+    },
+    {
+      "file_name": "00600490_000007582698.xls",
+      "scoring_name": "00600490_000007582698.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 495,
+      "sha256_out": "d4e6ca69260f1b2ea84e9fc763afdcca5e6e988b646abae14276ef2e64430bd9"
+    },
+    {
+      "file_name": "00600490_000008418926.xlsx",
+      "scoring_name": "00600490_000008418926.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 169,
+      "sha256_out": "fa66673bd8a8f83f868b207f8ee0d27ad26e5ab8e8f23670010e657467fed96b"
+    },
+    {
+      "file_name": "00600520_000010340452.xlsx",
+      "scoring_name": "00600520_000010340452.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2578,
+      "sha256_out": "c53637ee25e0240ac77ea99dd871468556c69ef60c10fb492a49a6a9128cf6f8"
+    },
+    {
+      "file_name": "00600560_000010594678.xlsx",
+      "scoring_name": "00600560_000010594678.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 27000074,
+      "sha256_out": "b110ce5ddba2bdc1a2d1150177b2d3b20f3fcbff48971dcb238b673bbf720166"
+    },
+    {
+      "file_name": "00600590_000010683236.xlsx",
+      "scoring_name": "00600590_000010683236.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 323490,
+      "sha256_out": "f0f4759a39759dd95c4d3565d55cbd6a027c5ee7bbde628a7cb9485216ac62d4"
+    },
+    {
+      "file_name": "00600610_000008050028.xls",
+      "scoring_name": "00600610_000008050028.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "b1e845a981c18fc74c2ae5ed086d909b2b7b5ff60995daec4fb1ed9427148c7e"
+    },
+    {
+      "file_name": "00600610_000008050029.xls",
+      "scoring_name": "00600610_000008050029.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "fd8f40bcb8cfbcef3b96ac3c0483b27a81993d066812f11f190c5444a2d3a639"
+    },
+    {
+      "file_name": "00600610_000008123232.xls",
+      "scoring_name": "00600610_000008123232.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "c2a850db1bfe0b79c4697b55c6eb4607710bfbe6ed9d57f275600a0cb4d96812"
+    },
+    {
+      "file_name": "00600610_000008610257.xls",
+      "scoring_name": "00600610_000008610257.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2374,
+      "sha256_out": "5c76652bf2014cccf6807f2c5c8c0847ea45061defa7f15c662fc8967a8aa81f"
+    },
+    {
+      "file_name": "00600610_000008610318.xls",
+      "scoring_name": "00600610_000008610318.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1185,
+      "sha256_out": "a5f83c2d2cbd8288b0a5e24cbbfce05787eebea7c0f131c5eaeda4f34ff54114"
+    },
+    {
+      "file_name": "00600610_000008610333.xls",
+      "scoring_name": "00600610_000008610333.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "bde674f93701851fbfae0bfa8db1cb30b162b60f23db1deede5eafe8e4dcdc56"
+    },
+    {
+      "file_name": "00600610_000008610537.xls",
+      "scoring_name": "00600610_000008610537.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1159,
+      "sha256_out": "df67873e4e083fa90a30e3e2f6408d9c85bb8012c1f3431f716cbdb43389e948"
+    },
+    {
+      "file_name": "00600610_000008610545.xls",
+      "scoring_name": "00600610_000008610545.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1087,
+      "sha256_out": "73588058c758adb4237808aa1771e52f14d4baa57211fdf366445648244435f0"
+    },
+    {
+      "file_name": "00600610_000010732900.xlsx",
+      "scoring_name": "00600610_000010732900.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "c19e04c14fe9b6b3be8f0af5cb5f630312c6cbdd9375d11e2b14229f7d82124e"
+    },
+    {
+      "file_name": "00600610_000010733590.xlsx",
+      "scoring_name": "00600610_000010733590.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1234,
+      "sha256_out": "8b09452933434473847c1958cd3decf94a85379a4b8cb57c6f2e51fec2c63d4a"
+    },
+    {
+      "file_name": "00600610_000010733639.xlsx",
+      "scoring_name": "00600610_000010733639.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "dcda6da53236fa23a0e07357b63102bb243e6e08fa69f2658b58173d7f0d0ed1"
+    },
+    {
+      "file_name": "00600610_000010734091.xlsx",
+      "scoring_name": "00600610_000010734091.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2753,
+      "sha256_out": "21c863f890a9198b7e9f2735f86c99fdccdede17ccff32b971b6fbd128a6a3d2"
+    },
+    {
+      "file_name": "00600610_000010734117.xlsx",
+      "scoring_name": "00600610_000010734117.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1594,
+      "sha256_out": "acad70eb56a4f441de81afe1767b7d9f2055e02a8c6567eb250d4c51d350d229"
+    },
+    {
+      "file_name": "00600610_000010734645.xlsx",
+      "scoring_name": "00600610_000010734645.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "b919e33e379c964be6b43cc0b6afdc72154c61422169a230f445521483fb6853"
+    },
+    {
+      "file_name": "00600610_000010734696.xlsx",
+      "scoring_name": "00600610_000010734696.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "49c8c8da2ba7cc7bd78efb56b0acb334e7ba6a3505757d207f2692b4f7449eaf"
+    },
+    {
+      "file_name": "00600610_000010734751.xlsx",
+      "scoring_name": "00600610_000010734751.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1161,
+      "sha256_out": "96b20d4f81c3aa6b5940b1c2d2da059db8e31826ddddf9f2ed56bbe1080087db"
+    },
+    {
+      "file_name": "00600610_000010739268.xlsx",
+      "scoring_name": "00600610_000010739268.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1087,
+      "sha256_out": "a5777661817345ee8319def93d85ca9841a1b7260dc0e5d694ce5135815b8df0"
+    },
+    {
+      "file_name": "00600610_000010743012.xlsx",
+      "scoring_name": "00600610_000010743012.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "133864433edea686c2b3c99c5961e39bbf52d6b2811b5147fc67c9059a4944d9"
+    },
+    {
+      "file_name": "00600610_000010743016.xlsx",
+      "scoring_name": "00600610_000010743016.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1303,
+      "sha256_out": "0f642e20e5097d6286dfa7f563c08b849d5fca0a5e5e3074fde07cec07f6d880"
+    },
+    {
+      "file_name": "00600610_000010846870.xlsx",
+      "scoring_name": "00600610_000010846870.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 908,
+      "sha256_out": "29073f7d77bae364641761de33d254bf5b1ab7512a4eca2c8071442e0d343930"
+    },
+    {
+      "file_name": "00600610_000010846879.xlsx",
+      "scoring_name": "00600610_000010846879.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1184,
+      "sha256_out": "56050bc2ebc7411d9724d570bd5b5b54b619e65503fb52a51aeba3102f709533"
+    },
+    {
+      "file_name": "00600610_000010846881.xlsx",
+      "scoring_name": "00600610_000010846881.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1184,
+      "sha256_out": "8cb21668a93435ae4e5b0d8899d727f01ca54922231787acaf3fd980b08d8f95"
+    },
+    {
+      "file_name": "00600610_000010846897.xlsx",
+      "scoring_name": "00600610_000010846897.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1598,
+      "sha256_out": "6f522a446ecc03deda50afafa8f7465eb763986519e23cf868199dc229e1cae1"
+    },
+    {
+      "file_name": "00600610_000010846922.xlsx",
+      "scoring_name": "00600610_000010846922.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2096,
+      "sha256_out": "45b15ed5a70459d1f14360af84da10df5553aa9c2c7324f68b1d4a99bf0c0353"
+    },
+    {
+      "file_name": "00600610_000010867590.xlsx",
+      "scoring_name": "00600610_000010867590.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2159,
+      "sha256_out": "5997d4fffb93be5da4bb92145585e62fe856a020d4de55f9a262c3776deef205"
+    },
+    {
+      "file_name": "00600610_000010867603.xlsx",
+      "scoring_name": "00600610_000010867603.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 44448,
+      "sha256_out": "a5f116f15e86302eba34db8e92479ea87ce8717ef659c92051dcddc6861b7cde"
+    },
+    {
+      "file_name": "00600620_000010079159.xlsx",
+      "scoring_name": "00600620_000010079159.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 143,
+      "sha256_out": "8cbf828b06e932b0986f048b6f44c97a4f0634e49755a61912a597331a2f8d07"
+    },
+    {
+      "file_name": "00600620_000010079306.xlsx",
+      "scoring_name": "00600620_000010079306.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 17738,
+      "sha256_out": "7ed07aae9dd352126f4860d3e422d5c508cb679d185899c90312497e2dc6025e"
+    },
+    {
+      "file_name": "00600640_000010664864.xlsx",
+      "scoring_name": "00600640_000010664864.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 745,
+      "sha256_out": "3a64976769eb45103f1441abe86dbddc73f96ca3748b4b6704194ac6e8f73864"
+    },
+    {
+      "file_name": "00600650_000003874908.xls",
+      "scoring_name": "00600650_000003874908.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 981,
+      "sha256_out": "9272eada14a92433c8de4f88bd04e54876e4e4aab830c24eba54ab5656acd110"
+    },
+    {
+      "file_name": "00600650_000003874936.xls",
+      "scoring_name": "00600650_000003874936.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 727,
+      "sha256_out": "362b316b8176c89740affaa28caf94c398cd2e55e2720c8a2d483a380e92b945"
+    },
+    {
+      "file_name": "00600650_000003874997.xls",
+      "scoring_name": "00600650_000003874997.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 725,
+      "sha256_out": "793f2ee8d1a63890b1399e9258c59eaf9d0c42c21eb763a358be0e8a7e2bac7e"
+    },
+    {
+      "file_name": "00600650_000003875114.xls",
+      "scoring_name": "00600650_000003875114.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 90,
+      "sha256_out": "173c6f49bd35373852b546a983dca3528cd7318a067424ea7af7be3a834d9fe4"
+    },
+    {
+      "file_name": "00600650_000010663443.xlsx",
+      "scoring_name": "00600650_000010663443.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1170,
+      "sha256_out": "dd71d2c1329bb5138a588184f8d7ac74aad2db78365755568d30865d725fdec2"
+    },
+    {
+      "file_name": "00600800_000007889511.xls",
+      "scoring_name": "00600800_000007889511.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 2537,
+      "sha256_out": "2d0a94aca46bff45bc1d3bb5f6db404ca4d2faa1d16dc8bb4fd3970b430e737a"
+    },
+    {
+      "file_name": "00600800_000007889518.xls",
+      "scoring_name": "00600800_000007889518.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 1,
+      "n_nonempty_cells": 579,
+      "sha256_out": "05c13ab1f313942f3854caabb0c205651ec4af91ec79383b91a6d66f975be7cf"
+    },
+    {
+      "file_name": "00600810_000007921921.xls",
+      "scoring_name": "00600810_000007921921.xlsx",
+      "status": "ok",
+      "note": "converted",
+      "n_sheets": 7,
+      "n_nonempty_cells": 2953,
+      "sha256_out": "74f5cec5535e517d3084f88f10618bd0deed5665664de9a3d96bf0cc073119d3"
+    },
+    {
+      "file_name": "00600840_000010808026.xlsx",
+      "scoring_name": "00600840_000010808026.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 8,
+      "n_nonempty_cells": 6548,
+      "sha256_out": "379c463db4180c118050e65e28c1fa0a8e02154be3cbef6fdb7d85b6fa3cf096"
+    },
+    {
+      "file_name": "00600870_000005111627.xlsx",
+      "scoring_name": "00600870_000005111627.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 8064,
+      "sha256_out": "9c97fe551934233f75fa3da1063bb7501d5cc751671b5e6299622bcb9453e041"
+    },
+    {
+      "file_name": "00600910_000007252324.xlsx",
+      "scoring_name": "00600910_000007252324.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 1487,
+      "sha256_out": "fd10e847039d4faeae77efb5b113cada0572b3882ad7debfe772248e5ded2162"
+    },
+    {
+      "file_name": "00600910_000010629935.xlsx",
+      "scoring_name": "00600910_000010629935.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 320,
+      "sha256_out": "2d565a3d763f4c6deb89947fba1c3fdad6e2de4d6b4ea47348118e04e48212b5"
+    },
+    {
+      "file_name": "00600910_000010629937.xlsx",
+      "scoring_name": "00600910_000010629937.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 175,
+      "sha256_out": "f75010645abf331ebc733acd942110104d76fa1147e7b039e96c900ba2f3f2d7"
+    },
+    {
+      "file_name": "00600910_000010630013.xlsx",
+      "scoring_name": "00600910_000010630013.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 18191,
+      "sha256_out": "cd8ce06fa1c10cc3ed2a12680836517588f1aa0893f117bfb71dd18910ebf745"
+    },
+    {
+      "file_name": "00650101_000010719877.xlsx",
+      "scoring_name": "00650101_000010719877.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 10,
+      "n_nonempty_cells": 4422,
+      "sha256_out": "99464c40d215b0d405f8888165f28d9e70576e12f3d345762886f9b874a94917"
+    },
+    {
+      "file_name": "00650401_000008420810.xlsx",
+      "scoring_name": "00650401_000008420810.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 23956,
+      "sha256_out": "a22d254d70f8f44f8d6df10cf3d4b9f899bfaeb84a3c60e99a91d02e18810ed9"
+    },
+    {
+      "file_name": "00650401_000008421000.xlsx",
+      "scoring_name": "00650401_000008421000.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 26904,
+      "sha256_out": "28d67c15f42bd15cb520d776e2f07163ac9561a4e8d306272110f52ddc78314e"
+    },
+    {
+      "file_name": "00650401_000008422942.xlsx",
+      "scoring_name": "00650401_000008422942.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 33844,
+      "sha256_out": "cdc8d194c8416c80cf2c29e64dceb2834a4c6f730ddd32dc59b88516a9f23464"
+    },
+    {
+      "file_name": "00650401_000008423297.xlsx",
+      "scoring_name": "00650401_000008423297.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 23164,
+      "sha256_out": "b0d8886f9eca72e31409ef72519844d31ce40102503982ca60abcea29e562370"
+    },
+    {
+      "file_name": "00650401_000008423676.xlsx",
+      "scoring_name": "00650401_000008423676.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 14109,
+      "sha256_out": "f22b990b68ca8fb4d3412b30fa765979e0b405a2b925298c42fe382ed8420c7c"
+    },
+    {
+      "file_name": "00650401_000008423678.xlsx",
+      "scoring_name": "00650401_000008423678.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 23961,
+      "sha256_out": "2c1aec2b6fde39f451c2b66d31dda7652c582397a9c6f0fcafd2ec52f9fe4fb9"
+    },
+    {
+      "file_name": "00650408_000010608243.xlsx",
+      "scoring_name": "00650408_000010608243.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 56784,
+      "sha256_out": "7e456fa72520cc1e5fda70450a76524f450a246279abe4277268fbfdd7cef73b"
+    },
+    {
+      "file_name": "00650408_000010608421.xlsx",
+      "scoring_name": "00650408_000010608421.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 11957,
+      "sha256_out": "c138832436af54a78504bb18c8bb65ab35b0650239a8000bfcfd32c823e42f16"
+    },
+    {
+      "file_name": "00650408_000010608636.xlsx",
+      "scoring_name": "00650408_000010608636.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 1,
+      "n_nonempty_cells": 92152,
+      "sha256_out": "0c5d5f56ffe7630556fc54376f8416f27db4dcfefd820e869c6f8dc5cb29fe97"
+    },
+    {
+      "file_name": "00650412_000010424477.xlsx",
+      "scoring_name": "00650412_000010424477.xlsx",
+      "status": "ok",
+      "note": "copied",
+      "n_sheets": 2,
+      "n_nonempty_cells": 488,
+      "sha256_out": "cb85166c426871d554a638e6859cc62fc6cc4bf6bb1171bfbd7584acb3fb7c35"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "harunobu evaluation artifacts",
+  "description": "Reproducibility scripts and derived evaluation artifacts for harunobu, a software tool for checking the machine readability of government data.",
+  "creators": [
+    {
+      "name": "TODO, Confirm author list"
+    }
+  ],
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "jpn",
+  "keywords": [
+    "machine readability",
+    "spreadsheets",
+    "government data",
+    "reproducibility"
+  ]
+}

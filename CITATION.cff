@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Citation metadata is provisional. Confirm the author list and ORCIDs before release."
+title: "harunobu evaluation artifacts"
+type: dataset
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "Okumura"
+    given-names: "Confirm author list"
+repository-code: "https://github.com/K-Oxon/harunobu-evaluation-artifacts"
+abstract: >-
+  e-Statからランダムに取得した600ファイルを、機械可読性判定ツールharunobuにて判定した結果。
+  DECOなどのスプレッドシート公開コーパスと表レイアウト推定を突き合わせた結果。
+keywords:
+  - machine readability
+  - spreadsheets
+  - government data
+  - reproducibility

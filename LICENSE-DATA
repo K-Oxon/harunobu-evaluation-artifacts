@@ -1,0 +1,29 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The project-authored data and media listed below are licensed under the
+Creative Commons Attribution 4.0 International license:
+
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Scope
+
+This license applies, to the extent that copyright or similar rights exist, to:
+
+- project-authored JSON and CSV files under results/;
+- project-authored aggregate CSV files and figures under figures/; and
+- project-authored descriptive metadata.
+
+File-specific notices in THIRD_PARTY_NOTICES.md and directory README files take
+precedence when they state a more specific source or license.
+
+Exclusions
+
+This license does not apply to software, which is covered by LICENSE. It also
+does not apply to third-party source data, annotations, documents, trademarks,
+or other material identified in THIRD_PARTY_NOTICES.md or a directory README.
+
+Attribution
+
+When reusing covered material, identify "harunobu evaluation artifacts" and
+K-Oxon, link to the repository or the version DOI when available, and indicate
+whether changes were made.
