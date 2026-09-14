@@ -1,6 +1,7 @@
 set shell := ["bash", "-euo", "pipefail", "-c"]
 export UV_CACHE_DIR := env_var_or_default("UV_CACHE_DIR", ".uv-cache")
 export MPLCONFIGDIR := env_var_or_default("MPLCONFIGDIR", ".matplotlib-cache")
+export SOURCE_DATE_EPOCH := env_var_or_default("SOURCE_DATE_EPOCH", "1789344000")
 
 default:
     @just --list
@@ -32,6 +33,8 @@ reproduce-layout:
 # Repository checks plus deterministic paper-asset regeneration. No test suite is run.
 verify:
     uv sync --frozen
+    uv run cffconvert --validate
     uv run python scripts/verify.py
     just build-paper-assets
     uv run python scripts/verify.py
+    git diff --exit-code -- figures/tables

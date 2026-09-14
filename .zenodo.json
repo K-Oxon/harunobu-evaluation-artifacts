@@ -1,9 +1,11 @@
 {
   "title": "harunobu evaluation artifacts",
-  "description": "Reproducibility scripts and derived evaluation artifacts for harunobu, a software tool for checking the machine readability of government data.",
+  "description": "Reproducibility scripts and derived evaluation artifacts for harunobu, a software tool for checking the machine readability of government data. Data and documentation are licensed under CC BY 4.0; source code is licensed under the MIT License.",
   "creators": [
     {
-      "name": "TODO, Confirm author list"
+      "name": "Okumura, Ken",
+      "orcid": "0009-0001-7839-4498",
+      "affiliation": "Digital Agency, Government of Japan"
     }
   ],
   "version": "1.0.0",

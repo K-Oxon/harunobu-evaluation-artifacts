@@ -6,12 +6,15 @@ import csv
 import gzip
 import json
 import re
+import subprocess
 from pathlib import Path
+
+import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 FORBIDDEN_NAMES = {".env", ".agents", ".claude", ".git", ".venv", ".uv-cache", "tests", "paper"}
 FORBIDDEN_TEXT = re.compile(r"/" + r"Users/|\\" + r"Users\\|\.claude/" + "worktrees")
-TEXT_SUFFIXES = {".csv", ".json", ".md", ".py", ".toml", ".typ", ".cff", ".txt"}
+TEXT_SUFFIXES = {".csv", ".json", ".md", ".py", ".toml", ".typ", ".cff", ".txt", ".yml", ".yaml"}
 
 
 def fail(message: str) -> None:
@@ -26,10 +29,29 @@ def load_json(relative: str):
         fail(f"invalid JSON {relative}: {exc}")
 
 
+def load_yaml(relative: str):
+    path = ROOT / relative
+    try:
+        return yaml.safe_load(path.read_text(encoding="utf-8"))
+    except (OSError, yaml.YAMLError) as exc:
+        fail(f"invalid YAML {relative}: {exc}")
+
+
+def public_candidates() -> list[Path]:
+    result = subprocess.run(
+        ["git", "ls-files", "--cached", "--others", "--exclude-standard", "-z"],
+        cwd=ROOT,
+        check=True,
+        capture_output=True,
+    )
+    return [ROOT / item.decode() for item in result.stdout.split(b"\0") if item]
+
+
 def main() -> int:
     required = (
         "CITATION.cff",
         ".zenodo.json",
+        ".github/workflows/verify.yml",
         "data/estat/frame/gov_stats_codes-2026-07-06.csv",
         "data/estat/frame/templates-v2.csv.gz",
         "data/estat/tier1/manifest.json",
@@ -41,6 +63,34 @@ def main() -> int:
     for relative in required:
         if not (ROOT / relative).is_file():
             fail(f"missing {relative}")
+
+    citation = load_yaml("CITATION.cff")
+    zenodo = load_json(".zenodo.json")
+    if citation.get("type") != "dataset" or zenodo.get("upload_type") != "dataset":
+        fail("CITATION.cff and .zenodo.json must describe a dataset")
+    if citation.get("title") != zenodo.get("title") or citation.get("version") != zenodo.get("version"):
+        fail("title or version differs between CITATION.cff and .zenodo.json")
+    if citation.get("license", "").lower() != zenodo.get("license", "").lower():
+        fail("license differs between CITATION.cff and .zenodo.json")
+    citation_authors = [
+        (
+            author.get("family-names"),
+            author.get("given-names"),
+            author.get("orcid", "").removeprefix("https://orcid.org/"),
+        )
+        for author in citation.get("authors", [])
+    ]
+    zenodo_creators = []
+    for creator in zenodo.get("creators", []):
+        family_name, separator, given_names = creator.get("name", "").partition(", ")
+        if not separator:
+            fail("Zenodo creator names must use 'Family name, Given names'")
+        zenodo_creators.append((family_name, given_names, creator.get("orcid", "")))
+    if not citation_authors or citation_authors != zenodo_creators:
+        fail("authors differ between CITATION.cff and .zenodo.json")
+    for _, _, orcid in citation_authors:
+        if not re.fullmatch(r"\d{4}-\d{4}-\d{4}-\d{3}[\dX]", orcid):
+            fail(f"invalid ORCID: {orcid}")
 
     manifest = load_json("data/estat/tier1/manifest.json")
     if manifest.get("n_entries") != 600 or len(manifest.get("entries", [])) != 600:
@@ -67,9 +117,7 @@ def main() -> int:
         if sum(1 for _ in csv.reader(stream)) - 1 != 118_793:
             fail("templates-v2.csv.gz must contain 118,793 data rows")
 
-    for path in ROOT.rglob("*"):
-        if any(part in {".git", ".venv", ".uv-cache"} for part in path.relative_to(ROOT).parts) or not path.is_file():
-            continue
+    for path in public_candidates():
         relative = path.relative_to(ROOT)
         if any(part in FORBIDDEN_NAMES for part in relative.parts):
             fail(f"forbidden path: {relative}")
@@ -79,6 +127,10 @@ def main() -> int:
             text = path.read_text(encoding="utf-8", errors="replace")
             if FORBIDDEN_TEXT.search(text):
                 fail(f"private absolute path in {relative}")
+            if relative.parts[:2] == (".github", "workflows"):
+                for action in re.findall(r"\buses:\s*[^\s@]+@([^\s#]+)", text):
+                    if not re.fullmatch(r"[0-9a-f]{40}", action):
+                        fail(f"GitHub Action is not pinned to a full commit SHA in {relative}: {action}")
     print("verify: OK")
     return 0
 

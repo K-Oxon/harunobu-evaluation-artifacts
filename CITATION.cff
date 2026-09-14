@@ -1,12 +1,14 @@
 cff-version: 1.2.0
-message: "Citation metadata is provisional. Confirm the author list and ORCIDs before release."
+message: "If you use these artifacts, please cite them using the metadata from this file."
 title: "harunobu evaluation artifacts"
 type: dataset
 version: 1.0.0
-license: MIT
+license: CC-BY-4.0
 authors:
   - family-names: "Okumura"
-    given-names: "Confirm author list"
+    given-names: "Ken"
+    orcid: "https://orcid.org/0009-0001-7839-4498"
+    affiliation: "Digital Agency, Government of Japan"
 repository-code: "https://github.com/K-Oxon/harunobu-evaluation-artifacts"
 abstract: >-
   e-Statからランダムに取得した600ファイルを、機械可読性判定ツールharunobuにて判定した結果。

@@ -14,3 +14,9 @@ dependencies = [
 
 [tool.uv]
 package = false
+
+[dependency-groups]
+dev = [
+    "cffconvert==2.0.0",
+    "pyyaml>=6.0",
+]
