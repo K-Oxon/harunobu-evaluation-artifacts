@@ -36,6 +36,8 @@ e-Statの測定記録は`results/estat/rulescore-tier1.json`、集計後のフ�
 
 <summary>ルール別・省庁別・統計種別通過率</summary>
 
+[duckdb](https://duckdb.org/) を使った集計例
+
 ```sql
 INSTALL httpfs;
 LOAD httpfs;
@@ -91,4 +93,4 @@ ORDER BY c.rule_id, c.gov_org, c.stat_type;
 
 ## ライセンスと引用
 
-コードは[MIT License](LICENSE)、本プロジェクトが作成した結果・集計表・図は[CC BY 4.0](LICENSE-DATA)である。第三者データの出所と条件は[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)、引用情報は[CITATION.cff](CITATION.cff)に記載。
+コードは[MIT License](LICENSE)、本プロジェクトが作成した結果・集計表・図は[CC BY 4.0](LICENSE-DATA)である。第三者データの出所と条件は[e-Stat](data/estat/frame/README.md)、[DECO](data/deco/README.md)、[TableSense](data/tablesense/README.md)の各README、引用情報は[CITATION.cff](CITATION.cff)に記載。

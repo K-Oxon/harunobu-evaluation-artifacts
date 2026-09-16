@@ -13,14 +13,14 @@ This license applies, to the extent that copyright or similar rights exist, to:
 - project-authored aggregate CSV files and figures under figures/; and
 - project-authored descriptive metadata.
 
-File-specific notices in THIRD_PARTY_NOTICES.md and directory README files take
-precedence when they state a more specific source or license.
+File-specific source and license statements in data/estat/frame/README.md,
+data/deco/README.md, and data/tablesense/README.md take precedence.
 
 Exclusions
 
 This license does not apply to software, which is covered by LICENSE. It also
 does not apply to third-party source data, annotations, documents, trademarks,
-or other material identified in THIRD_PARTY_NOTICES.md or a directory README.
+or other material identified in the relevant data directory README.
 
 Attribution
 

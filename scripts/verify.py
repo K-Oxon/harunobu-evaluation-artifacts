@@ -44,7 +44,8 @@ def public_candidates() -> list[Path]:
         check=True,
         capture_output=True,
     )
-    return [ROOT / item.decode() for item in result.stdout.split(b"\0") if item]
+    candidates = [ROOT / item.decode() for item in result.stdout.split(b"\0") if item]
+    return [path for path in candidates if path.is_file()]
 
 
 def main() -> int:

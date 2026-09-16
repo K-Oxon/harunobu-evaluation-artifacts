@@ -7,4 +7,6 @@ e-Stat評価の母集団と標本抽出に使用するフレームデータ。
 
 `templates-v2.csv.gz`の展開後SHA-256は`be21c2b4afdbec021b4e3f08db00d37698d4cb03f027eef973db8a2a899f8991`。
 
-出典: [e-Stat](https://www.e-stat.go.jp/)であり、内容を標本抽出用に加工。
+出典は[政府統計の総合窓口（e-Stat）](https://www.e-stat.go.jp/)であり、本評価の標本抽出用に抽出および正規化した加工物である。
+
+利用条件は[e-Stat利用規約](https://www.e-stat.go.jp/terms-of-use)による。

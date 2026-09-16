@@ -8,4 +8,6 @@
 - [VEUSES v1](https://doi.org/10.6084/m9.figshare.4797991.v1), file `7889902`: MD5 `46f5b8b4233473b2e2b7d388c56a0ea0`
 - [VFUSE v3](https://doi.org/10.6084/m9.figshare.4798000.v3), file `7889911`: MD5 `e822971e2a76e033516b6e6adeb605e7`
 
-TableSenseの利用条件は[Open Use of Data Agreement](https://github.com/microsoft/TableSense/blob/3001191378dfc196e7546dab67cbd1094db8919a/LICENSE)、Figshareの3コーパスはCC0です。
+TableSenseの利用条件は[Open Use of Data Agreement](https://github.com/microsoft/TableSense/blob/3001191378dfc196e7546dab67cbd1094db8919a/LICENSE)、Figshareの3コーパスはCC0である。
+
+`just reproduce-layout`は上記ファイルを取得してチェックサムを照合し、評価結果を`results/layout/eval-tablesense-replay.json`へ出力する。
